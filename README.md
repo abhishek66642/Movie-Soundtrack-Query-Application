@@ -1,4 +1,4 @@
-# Movie-and-Soundtrack-Query-Application
+# Movie and Soundtrack Query Application
 NYU Tandon CS-GY 6083 Database Systems Fall 2021 Project
 
 # Project Description
