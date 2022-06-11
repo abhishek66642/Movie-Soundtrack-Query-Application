@@ -1,0 +1,17 @@
+psql -d sample_db -a -f movie-and-soundtrack-query-application/schema.sql
+cat movie-and-soundtrack-query-application/data/Songs.csv | psql -U sample -d sample_db -c "COPY Songs from STDIN CSV HEADER"
+cat movie-and-soundtrack-query-application/data/Composers.csv | psql -U sample -d sample_db -c "COPY Composers from STDIN CSV HEADER"
+cat movie-and-soundtrack-query-application/data/Actors.csv | psql -U sample -d sample_db -c "COPY Actors from STDIN CSV HEADER"
+cat movie-and-soundtrack-query-application/data/Directors.csv | psql -U sample -d sample_db -c "COPY Directors from STDIN CSV HEADER"
+cat movie-and-soundtrack-query-application/data/Titles.csv | psql -U sample -d sample_db -c "COPY Titles from STDIN CSV HEADER"
+cat movie-and-soundtrack-query-application/data/Movies.csv | psql -U sample -d sample_db -c "COPY Movies from STDIN CSV HEADER"
+cat movie-and-soundtrack-query-application/data/TVShows.csv | psql -U sample -d sample_db -c "COPY TVShows from STDIN CSV HEADER"
+cat movie-and-soundtrack-query-application/data/Title_Genres.csv | psql -U sample -d sample_db -c "COPY Title_Genres from STDIN CSV HEADER"
+cat movie-and-soundtrack-query-application/data/Episodes.csv | psql -U sample -d sample_db -c "COPY Episodes from STDIN CSV HEADER"
+cat movie-and-soundtrack-query-application/data/Ratings.csv | psql -U sample -d sample_db -c "COPY Ratings from STDIN CSV HEADER"
+cat movie-and-soundtrack-query-application/data/Song_Composers.csv | psql -U sample -d sample_db -c "COPY Song_Composers from STDIN CSV HEADER"
+cat movie-and-soundtrack-query-application/data/Songs_Episodes.csv | psql -U sample -d sample_db -c "COPY Songs_Episodes from STDIN CSV HEADER"
+cat movie-and-soundtrack-query-application/data/Songs_Movies.csv | psql -U sample -d sample_db -c "COPY Songs_Movies from STDIN CSV HEADER"
+cat movie-and-soundtrack-query-application/data/Movie_Actors.csv | psql -U sample -d sample_db -c "COPY Movie_Actors from STDIN CSV HEADER"
+cat movie-and-soundtrack-query-application/data/Episode_Actors.csv | psql -U sample -d sample_db -c "COPY Episode_Actors from STDIN CSV HEADER"
+

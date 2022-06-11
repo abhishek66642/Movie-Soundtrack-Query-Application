@@ -1,0 +1,1489 @@
+episode_id,tvshow_id,season_number,episode_number,episode_name,airing_year,runtime_minutes,director_id,title_type
+tt0583431,tt0108778,7,8,The One Where Chandler Doesn't Like Dogs,2000,22,nm0109159,tvEpisode
+tt0583432,tt0108778,10,9,The One with the Birth Mother,2004,22,nm0001710,tvEpisode
+tt0583433,tt0108778,10,17,The Last One,2004,48,nm0109159,tvEpisode
+tt0583435,tt0108778,8,1,The One After I Do,2001,22,nm0109159,tvEpisode
+tt0583436,tt0108778,10,1,The One After Joey and Rachel Kiss,2003,22,nm0109159,tvEpisode
+tt0583437,tt0108778,5,1,The One After Ross Says Rachel,1998,22,nm0109159,tvEpisode
+tt0583438,tt0108778,6,1,The One After Vegas,1999,22,nm0109159,tvEpisode
+tt0583439,tt0108778,2,12,The One After the Superbowl: Part 1,1996,22,nm0501185,tvEpisode
+tt0583440,tt0108778,5,3,The One Hundredth,1998,22,nm0109159,tvEpisode
+tt0583441,tt0108778,6,15,The One That Could Have Been,2000,30,nm0501185,tvEpisode
+tt0583442,tt0108778,6,16,The One That Could Have Been,2000,30,nm0501185,tvEpisode
+tt0583443,tt0108778,3,11,The One Where Chandler Can't Remember Which Sister,1997,22,nm0400958,tvEpisode
+tt0583444,tt0108778,4,7,The One Where Chandler Crosses the Line,1997,22,nm0109159,tvEpisode
+tt0583445,tt0108778,10,10,The One Where Chandler Gets Caught,2004,22,nm0357143,tvEpisode
+tt0583446,tt0108778,8,13,The One Where Chandler Takes a Bath,2002,22,nm0918923,tvEpisode
+tt0583447,tt0108778,2,18,The One Where Dr. Ramoray Dies,1996,22,nm0501185,tvEpisode
+tt0583448,tt0108778,2,17,The One Where Eddie Moves In,1996,22,nm0501185,tvEpisode
+tt0583449,tt0108778,2,19,The One Where Eddie Won't Go,1996,22,nm0501185,tvEpisode
+tt0583450,tt0108778,9,2,The One Where Emma Cries,2002,22,nm0258405,tvEpisode
+tt0583451,tt0108778,10,15,The One Where Estelle Dies,2004,22,nm0357143,tvEpisode
+tt0583452,tt0108778,5,14,The One Where Everybody Finds Out,1999,22,nm0501185,tvEpisode
+tt0583453,tt0108778,2,3,The One Where Heckles Dies,1995,22,nm0109159,tvEpisode
+tt0583454,tt0108778,8,12,The One Where Joey Dates Rachel,2002,22,nm0001710,tvEpisode
+tt0583455,tt0108778,6,4,The One Where Joey Loses His Insurance,1999,22,nm0357143,tvEpisode
+tt0583456,tt0108778,2,16,The One Where Joey Moves Out,1996,22,nm0501185,tvEpisode
+tt0583457,tt0108778,10,13,The One Where Joey Speaks French,2004,22,nm0357143,tvEpisode
+tt0583458,tt0108778,8,16,The One Where Joey Tells Rachel,2002,22,nm0918923,tvEpisode
+tt0583459,tt0108778,1,1,The One Where Monica Gets a Roommate,1994,22,nm0123273,tvEpisode
+tt0583460,tt0108778,9,13,The One Where Monica Sings,2003,22,nm0357143,tvEpisode
+tt0583461,tt0108778,3,13,The One Where Monica and Richard Are Just Friends,1997,23,nm0000913,tvEpisode
+tt0583462,tt0108778,1,8,The One Where Nana Dies Twice,1994,22,nm0123273,tvEpisode
+tt0583463,tt0108778,9,1,The One Where No One Proposes,2002,22,nm0109159,tvEpisode
+tt0583464,tt0108778,3,2,The One Where No One's Ready,1996,22,nm0541562,tvEpisode
+tt0583465,tt0108778,2,20,The One Where Old Yeller Dies,1996,22,nm0501185,tvEpisode
+tt0583466,tt0108778,6,22,The One Where Paul's the Man,2000,22,nm0357143,tvEpisode
+tt0583467,tt0108778,5,4,The One Where Phoebe Hates PBS,1998,22,nm0421675,tvEpisode
+tt0583468,tt0108778,6,7,The One Where Phoebe Runs,1999,22,nm0357143,tvEpisode
+tt0583469,tt0108778,1,24,The One Where Rachel Finds Out,1995,22,nm0109159,tvEpisode
+tt0583470,tt0108778,9,11,The One Where Rachel Goes Back to Work,2003,22,nm0357143,tvEpisode
+tt0583471,tt0108778,8,23,The One Where Rachel Has a Baby: Part 1,2002,22,nm0109159,tvEpisode
+tt0583472,tt0108778,8,24,The One Where Rachel Has a Baby: Part 2,2002,22,nm0109159,tvEpisode
+tt0583473,tt0108778,8,22,The One Where Rachel Is Late,2002,22,nm0357143,tvEpisode
+tt0583474,tt0108778,3,10,The One Where Rachel Quits,1996,22,nm0400958,tvEpisode
+tt0583475,tt0108778,5,18,The One Where Rachel Smokes,1999,22,nm0390844,tvEpisode
+tt0583476,tt0108778,8,3,The One Where Rachel Tells...,2001,22,nm0258405,tvEpisode
+tt0583477,tt0108778,10,5,The One Where Rachel's Sister Babysits,2003,22,nm0006919,tvEpisode
+tt0583478,tt0108778,7,13,The One Where Rosita Dies,2001,22,nm0697532,tvEpisode
+tt0583479,tt0108778,5,19,The One Where Ross Can't Flirt,1999,22,nm0541562,tvEpisode
+tt0583480,tt0108778,6,18,The One Where Ross Dates a Student,2000,22,nm0357143,tvEpisode
+tt0583481,tt0108778,2,7,The One Where Ross Finds Out,1995,22,nm0094288,tvEpisode
+tt0583482,tt0108778,6,9,The One Where Ross Got High,1999,22,nm0109159,tvEpisode
+tt0583483,tt0108778,6,2,The One Where Ross Hugs Rachel,1999,22,nm0541562,tvEpisode
+tt0583484,tt0108778,10,2,The One Where Ross Is Fine,2003,22,nm0918923,tvEpisode
+tt0583485,tt0108778,6,21,The One Where Ross Meets Elizabeth's Dad,2000,22,nm0501185,tvEpisode
+tt0583486,tt0108778,5,7,The One Where Ross Moves In,1998,22,nm0357143,tvEpisode
+tt0583487,tt0108778,3,15,The One Where Ross and Rachel Take a Break,1997,22,nm0123273,tvEpisode
+tt0583488,tt0108778,2,15,The One Where Ross and Rachel... You Know,1996,22,nm0501185,tvEpisode
+tt0583489,tt0108778,7,14,The One Where They All Turn Thirty,2001,22,nm0918923,tvEpisode
+tt0583490,tt0108778,4,9,The One Where They're Going to Party!,1997,22,nm0094288,tvEpisode
+tt0583491,tt0108778,7,12,The One Where They're Up All Night,2001,22,nm0109159,tvEpisode
+tt0583492,tt0108778,1,9,The One Where Underdog Gets Away,1994,22,nm0123273,tvEpisode
+tt0583493,tt0108778,1,19,The One Where the Monkey Gets Away,1995,22,nm0094288,tvEpisode
+tt0583494,tt0108778,10,11,The One Where the Stripper Cries,2004,22,nm0109159,tvEpisode
+tt0583495,tt0108778,3,17,The One Without the Ski Trip,1997,22,nm0800376,tvEpisode
+tt0583496,tt0108778,3,25,The One at the Beach,1997,22,nm0296945,tvEpisode
+tt0583497,tt0108778,9,23,The One in Barbados,2003,50,nm0109159,tvEpisode
+tt0583498,tt0108778,9,24,The One in Barbados,2003,50,nm0109159,tvEpisode
+tt0583499,tt0108778,8,18,The One in Massapequa,2002,22,nm0357143,tvEpisode
+tt0583500,tt0108778,5,23,The One in Vegas: Part 1,1999,22,nm0109159,tvEpisode
+tt0583501,tt0108778,3,16,The One with the Morning After,1997,22,nm0123273,tvEpisode
+tt0583502,tt0108778,6,14,The One Where Chandler Can't Cry,2000,22,nm0109159,tvEpisode
+tt0583503,tt0108778,7,9,The One with All the Candy,2000,22,nm0001710,tvEpisode
+tt0583504,tt0108778,7,11,The One with All the Cheesecakes,2001,22,nm0357143,tvEpisode
+tt0583505,tt0108778,4,19,The One with All the Haste,1998,22,nm0109159,tvEpisode
+tt0583506,tt0108778,3,12,The One with All the Jealousy,1997,22,nm0000913,tvEpisode
+tt0583507,tt0108778,5,2,The One with All the Kissing,1998,22,nm0357143,tvEpisode
+tt0583510,tt0108778,1,18,The One with All the Poker,1995,22,nm0123273,tvEpisode
+tt0583511,tt0108778,5,11,The One with All the Resolutions,1999,22,nm0005344,tvEpisode
+tt0583512,tt0108778,4,15,The One with All the Rugby,1998,22,nm0123273,tvEpisode
+tt0583513,tt0108778,4,20,The One with All the Wedding Dresses,1998,22,nm0541562,tvEpisode
+tt0583514,tt0108778,2,24,The One with Barry and Mindy's Wedding,1996,22,nm0501185,tvEpisode
+tt0583515,tt0108778,4,8,The One with Chandler in a Box,1997,22,nm0094288,tvEpisode
+tt0583516,tt0108778,7,22,The One with Chandler's Dad,2001,22,nm0109159,tvEpisode
+tt0583517,tt0108778,5,12,The One with Chandler's Work Laugh,1999,22,nm0109159,tvEpisode
+tt0583518,tt0108778,9,10,The One with Christmas in Tulsa,2002,22,nm0109159,tvEpisode
+tt0583519,tt0108778,2,5,The One with Five Steaks and an Eggplant,1995,22,nm0265954,tvEpisode
+tt0583520,tt0108778,3,5,The One with Frank Jr.,1996,22,nm0958449,tvEpisode
+tt0583521,tt0108778,1,4,The One with George Stephanopoulos,1994,22,nm0123273,tvEpisode
+tt0583522,tt0108778,7,18,The One with Joey's Award,2001,22,nm0357143,tvEpisode
+tt0583523,tt0108778,5,13,The One with Joey's Bag,1999,22,nm0541562,tvEpisode
+tt0583524,tt0108778,5,22,The One with Joey's Big Break,1999,22,nm0357143,tvEpisode
+tt0583525,tt0108778,4,14,The One with Joey's Dirty Day,1998,22,nm0094288,tvEpisode
+tt0583526,tt0108778,6,19,The One with Joey's Fridge,2000,22,nm0918923,tvEpisode
+tt0583527,tt0108778,8,19,The One with Joey's Interview,2002,22,nm0357143,tvEpisode
+tt0583528,tt0108778,7,15,The One with Joey's New Brain,2001,22,nm0109159,tvEpisode
+tt0583529,tt0108778,4,5,The One with Joey's New Girlfriend,1997,22,nm0541562,tvEpisode
+tt0583530,tt0108778,6,5,The One with Joey's Porsche,1999,22,nm0357143,tvEpisode
+tt0583531,tt0108778,7,23,The One with Monica and Chandler's Wedding: Part 1,2001,22,nm0109159,tvEpisode
+tt0583532,tt0108778,7,24,The One with Monica and Chandler's Wedding: Part 2,2001,22,nm0109159,tvEpisode
+tt0583533,tt0108778,8,10,The One with Monica's Boots,2001,22,nm0109159,tvEpisode
+tt0583534,tt0108778,1,11,The One with Mrs. Bing,1995,22,nm0123273,tvEpisode
+tt0583535,tt0108778,9,5,The One with Phoebe's Birthday Dinner,2002,22,nm0001710,tvEpisode
+tt0583536,tt0108778,7,3,The One with Phoebe's Cookies,2000,22,nm0357143,tvEpisode
+tt0583537,tt0108778,2,9,The One with Phoebe's Dad,1995,22,nm0109159,tvEpisode
+tt0583538,tt0108778,3,14,The One with Phoebe's Ex-Partner,1997,22,nm0000913,tvEpisode
+tt0583539,tt0108778,2,4,The One with Phoebe's Husband,1995,22,nm0541562,tvEpisode
+tt0583540,tt0108778,9,12,The One with Phoebe's Rats,2003,24,nm0918923,tvEpisode
+tt0583541,tt0108778,4,11,The One with Phoebe's Uterus,1998,22,nm0825731,tvEpisode
+tt0583542,tt0108778,10,12,The One with Phoebe's Wedding,2004,22,nm0109159,tvEpisode
+tt0583543,tt0108778,10,14,The One with Princess Consuela,2004,22,nm0357143,tvEpisode
+tt0583544,tt0108778,7,4,The One with Rachel's Assistant,2000,22,nm0001710,tvEpisode
+tt0583545,tt0108778,7,20,The One with Rachel's Big Kiss,2001,22,nm0357143,tvEpisode
+tt0583546,tt0108778,7,2,The One with Rachel's Book,2000,22,nm0501185,tvEpisode
+tt0583547,tt0108778,4,13,The One with Rachel's Crush,1998,22,nm0212027,tvEpisode
+tt0583548,tt0108778,8,5,The One with Rachel's Date,2001,22,nm0357143,tvEpisode
+tt0583549,tt0108778,9,19,The One with Rachel's Dream,2003,22,nm0400958,tvEpisode
+tt0583550,tt0108778,10,16,The One with Rachel's Going Away Party,2004,22,nm0357143,tvEpisode
+tt0583551,tt0108778,5,17,The One with Rachel's Inadvertent Kiss,1999,22,nm0421675,tvEpisode
+tt0583552,tt0108778,4,18,The One with Rachel's New Dress,1998,22,nm0541562,tvEpisode
+tt0583553,tt0108778,9,8,The One with Rachel's Other Sister,2002,22,nm0109159,tvEpisode
+tt0583554,tt0108778,9,9,The One with Rachel's Phone Number,2002,22,nm0918923,tvEpisode
+tt0583555,tt0108778,6,13,The One with Rachel's Sister,2000,22,nm0357143,tvEpisode
+tt0583556,tt0108778,7,19,The One with Ross and Monica's Cousin,2001,22,nm0357143,tvEpisode
+tt0583557,tt0108778,10,6,The One with Ross' Grant,2003,22,nm0918923,tvEpisode
+tt0583558,tt0108778,7,7,The One with Ross's Library Book,2000,22,nm0001710,tvEpisode
+tt0583559,tt0108778,6,8,The One with Ross' Teeth,1999,22,nm0357143,tvEpisode
+tt0583560,tt0108778,6,3,The One with Ross's Denial,1999,22,nm0357143,tvEpisode
+tt0583561,tt0108778,9,7,The One with Ross's Inappropriate Song,2002,22,nm0357143,tvEpisode
+tt0583562,tt0108778,2,1,The One with Ross's New Girlfriend,1995,22,nm0501185,tvEpisode
+tt0583563,tt0108778,5,9,The One with Ross's Sandwich,1998,22,nm0357143,tvEpisode
+tt0583564,tt0108778,10,3,The One with Ross's Tan,2003,22,nm0357143,tvEpisode
+tt0583565,tt0108778,3,23,The One with Ross's Thing,1997,22,nm0421675,tvEpisode
+tt0583566,tt0108778,4,23,The One with Ross's Wedding,1998,30,nm0109159,tvEpisode
+tt0583567,tt0108778,2,10,The One with Russ,1996,22,nm0772095,tvEpisode
+tt0583568,tt0108778,1,16,The One with Two Parts: Part 1,1995,22,nm0501185,tvEpisode
+tt0583569,tt0108778,1,17,The One with Two Parts: Part 2,1995,22,nm0501185,tvEpisode
+tt0583570,tt0108778,6,17,The One with Unagi,2000,22,nm0357143,tvEpisode
+tt0583571,tt0108778,4,3,The One with the 'Cuffs,1997,22,nm0094288,tvEpisode
+tt0583572,tt0108778,6,11,The One with the Apothecary Table,2000,22,nm0109159,tvEpisode
+tt0583573,tt0108778,8,20,The One with the Baby Shower,2002,22,nm0109159,tvEpisode
+tt0583574,tt0108778,2,6,The One with the Baby on the Bus,1995,22,nm0541562,tvEpisode
+tt0583575,tt0108778,5,21,The One with the Ball,1999,22,nm0357143,tvEpisode
+tt0583576,tt0108778,4,4,The One with the Ballroom Dancing,1997,22,nm0541562,tvEpisode
+tt0583577,tt0108778,1,23,The One with the Birth,1995,22,nm0123273,tvEpisode
+tt0583578,tt0108778,8,15,The One with the Birthing Video,2002,22,nm0109159,tvEpisode
+tt0583579,tt0108778,1,7,The One with the Blackout,1994,22,nm0123273,tvEpisode
+tt0583580,tt0108778,9,14,The One with the Blind Dates,2003,24,nm0357143,tvEpisode
+tt0583581,tt0108778,9,16,The One with the Boob Job,2003,27,nm0357143,tvEpisode
+tt0583582,tt0108778,1,13,The One with the Boobies,1995,22,nm0002887,tvEpisode
+tt0583583,tt0108778,2,2,The One with the Breast Milk,1995,22,nm0501185,tvEpisode
+tt0583584,tt0108778,2,21,The One with the Bullies,1996,22,nm0501185,tvEpisode
+tt0583585,tt0108778,1,6,The One with the Butt,1994,22,nm0762541,tvEpisode
+tt0583586,tt0108778,10,4,The One with the Cake,2003,22,nm0357143,tvEpisode
+tt0583587,tt0108778,1,14,The One with the Candy Hearts,1995,22,nm0123273,tvEpisode
+tt0583588,tt0108778,4,2,The One with the Cat,1997,22,nm0421675,tvEpisode
+tt0583589,tt0108778,7,17,The One with the Cheap Wedding Dress,2001,22,nm0109159,tvEpisode
+tt0583590,tt0108778,3,21,The One with the Chick and the Duck,1997,23,nm0501185,tvEpisode
+tt0583591,tt0108778,2,23,The One with the Chicken Pox,1996,22,nm0501185,tvEpisode
+tt0583592,tt0108778,8,21,The One with the Cooking Class,2002,22,nm0357143,tvEpisode
+tt0583593,tt0108778,5,16,The One with the Cop,1999,22,nm0874716,tvEpisode
+tt0583594,tt0108778,8,11,The One with Ross's Step Forward,2001,22,nm0357143,tvEpisode
+tt0583595,tt0108778,4,6,The One with the Dirty Girl,1997,22,nm0421675,tvEpisode
+tt0583596,tt0108778,3,20,The One with the Dollhouse,1997,22,nm0400958,tvEpisode
+tt0583597,tt0108778,9,22,The One with the Donor,2003,22,nm0918923,tvEpisode
+tt0583598,tt0108778,1,12,The One with the Dozen Lasagnas,1995,22,nm0006996,tvEpisode
+tt0583599,tt0108778,1,5,The One with the East German Laundry Detergent,1994,22,nm0296945,tvEpisode
+tt0583600,tt0108778,4,12,The One with the Embryos,1998,22,nm0109159,tvEpisode
+tt0583601,tt0108778,7,5,The One with the Engagement Picture,2000,22,nm0357143,tvEpisode
+tt0583602,tt0108778,1,20,The One with the Evil Orthodontist,1995,22,nm0094288,tvEpisode
+tt0583603,tt0108778,1,21,The One with the Fake Monica,1995,22,nm0541562,tvEpisode
+tt0583604,tt0108778,4,16,The One with the Fake Party,1998,22,nm0501185,tvEpisode
+tt0583605,tt0108778,9,21,The One with the Fertility Test,2003,22,nm0357143,tvEpisode
+tt0583606,tt0108778,3,6,The One with the Flashback,1996,22,nm0094288,tvEpisode
+tt0583607,tt0108778,3,9,The One with the Football,1996,22,nm0109159,tvEpisode
+tt0583608,tt0108778,4,17,The One with the Free Porn,1998,22,nm0501185,tvEpisode
+tt0583609,tt0108778,3,8,The One with the Giant Poking Device,1996,22,nm0541562,tvEpisode
+tt0583610,tt0108778,5,15,The One with the Girl Who Hits Joey,1999,22,nm0109159,tvEpisode
+tt0583611,tt0108778,4,10,The One with the Girl from Poughkeepsie,1997,22,nm0357143,tvEpisode
+tt0583612,tt0108778,8,6,The One with the Halloween Party,2001,22,nm0357143,tvEpisode
+tt0583613,tt0108778,7,10,The One with the Holiday Armadillo,2000,22,nm0357143,tvEpisode
+tt0583614,tt0108778,10,7,The One with the Home Study,2003,22,nm0109159,tvEpisode
+tt0583615,tt0108778,3,18,The One with the Hypnosis Tape,1997,23,nm0000913,tvEpisode
+tt0583616,tt0108778,1,22,The One with the Ick Factor,1995,22,nm0000913,tvEpisode
+tt0583617,tt0108778,5,10,The One with the Inappropriate Sister,1998,22,nm0212027,tvEpisode
+tt0583618,tt0108778,4,21,The One with the Invitation,1998,22,nm0094288,tvEpisode
+tt0583619,tt0108778,3,3,The One with the Jam,1996,22,nm0109159,tvEpisode
+tt0583620,tt0108778,4,1,The One with the Jellyfish,1997,22,nm0421675,tvEpisode
+tt0583621,tt0108778,6,12,The One with the Joke,2000,22,nm0357143,tvEpisode
+tt0583622,tt0108778,5,5,The One with the Kips,1998,22,nm0212027,tvEpisode
+tt0583623,tt0108778,10,8,The One with the Late Thanksgiving,2003,22,nm0357143,tvEpisode
+tt0583624,tt0108778,2,11,The One with the Lesbian Wedding,1996,22,nm0772095,tvEpisode
+tt0583625,tt0108778,2,8,The One with the List,1995,22,nm0005316,tvEpisode
+tt0583626,tt0108778,9,18,The One with the Lottery,2003,23,nm0357143,tvEpisode
+tt0583627,tt0108778,9,6,The One with the Male Nanny,2002,22,nm0109159,tvEpisode
+tt0583628,tt0108778,9,17,The One with the Memorial Service,2003,26,nm0357143,tvEpisode
+tt0583629,tt0108778,3,4,The One with the Metaphorical Tunnel,1996,22,nm0958449,tvEpisode
+tt0583630,tt0108778,1,10,The One with the Monkey,1994,22,nm0094288,tvEpisode
+tt0583631,tt0108778,9,15,The One with the Mugging,2003,24,nm0357143,tvEpisode
+tt0583632,tt0108778,7,6,The One with the Nap Partners,2000,22,nm0357143,tvEpisode
+tt0583633,tt0108778,9,3,The One with the Pediatrician,2002,22,nm0006919,tvEpisode
+tt0583634,tt0108778,3,1,The One with the Princess Leia Fantasy,1996,22,nm0541562,tvEpisode
+tt0583635,tt0108778,2,14,The One with the Prom Video,1996,22,nm0123273,tvEpisode
+tt0583636,tt0108778,6,24,The One with the Proposal,2000,30,nm0109159,tvEpisode
+tt0583637,tt0108778,3,7,The One with the Race Car Bed,1996,22,nm0541562,tvEpisode
+tt0583638,tt0108778,8,2,The One with the Red Sweater,2001,22,nm0001710,tvEpisode
+tt0583639,tt0108778,5,20,The One with the Ride Along,1999,22,nm0357143,tvEpisode
+tt0583640,tt0108778,6,23,The One with the Ring,2000,22,nm0357143,tvEpisode
+tt0583641,tt0108778,6,10,The One with the Routine,1999,22,nm0109159,tvEpisode
+tt0583642,tt0108778,8,9,The One with the Rumor,2001,22,nm0357143,tvEpisode
+tt0583643,tt0108778,3,22,The One with the Screamer,1997,22,nm0094288,tvEpisode
+tt0583644,tt0108778,8,14,The One with the Secret Closet,2002,22,nm0109159,tvEpisode
+tt0583645,tt0108778,9,4,The One with the Sharks,2002,22,nm0918923,tvEpisode
+tt0583646,tt0108778,9,20,The One with the Soap Opera Party,2003,22,nm0258405,tvEpisode
+tt0583647,tt0108778,1,2,The One with the Sonogram at the End,1994,22,nm0123273,tvEpisode
+tt0583648,tt0108778,8,7,The One with the Stain,2001,22,nm0109159,tvEpisode
+tt0583649,tt0108778,1,15,The One with the Stoned Guy,1995,22,nm0002887,tvEpisode
+tt0583650,tt0108778,8,8,The One with the Stripper,2001,22,nm0001710,tvEpisode
+tt0583651,tt0108778,8,17,The One with the Tea Leaves,2002,22,nm0357143,tvEpisode
+tt0583652,tt0108778,5,8,The One with All the Thanksgivings,1998,22,nm0109159,tvEpisode
+tt0583653,tt0108778,1,3,The One with the Thumb,1994,22,nm0123273,tvEpisode
+tt0583654,tt0108778,3,19,The One with the Tiny T-Shirt,1997,30,nm0400958,tvEpisode
+tt0583655,tt0108778,7,16,The One with the Truth About London,2001,22,nm0001710,tvEpisode
+tt0583656,tt0108778,2,22,The One with the Two Parties,1996,22,nm0501185,tvEpisode
+tt0583657,tt0108778,3,24,The One with the Ultimate Fighting Champion,1997,22,nm0000913,tvEpisode
+tt0583658,tt0108778,8,4,The One with the Videotape,2001,22,nm0109159,tvEpisode
+tt0583659,tt0108778,4,22,The One with the Worst Best Man Ever,1998,22,nm0094288,tvEpisode
+tt0583660,tt0108778,5,6,The One with the Yeti,1998,22,nm0357143,tvEpisode
+tt0756481,tt0108778,6,6,The One on the Last Night,1999,22,nm0001710,tvEpisode
+tt0756482,tt0108778,6,20,The One with Mac and C.H.E.E.S.E.,2000,22,nm0109159,tvEpisode
+tt0756483,tt0108778,7,1,The One with Monica's Thunder,2000,22,nm0109159,tvEpisode
+tt0756484,tt0108778,7,21,The One with the Vows,2001,22,nm0357143,tvEpisode
+tt0831047,tt0108778,2,13,The One After the Superbowl: Part 2,1996,22,nm0501185,tvEpisode
+tt0831990,tt0108778,5,24,The One in Vegas: Part 2,1999,22,nm0109159,tvEpisode
+tt0831991,tt0108778,4,24,The One with Ross's Wedding: Part 2,1998,30,nm0109159,tvEpisode
+tt0954401,tt0108778,6,25,The One with the Proposal,2000,30,nm0109159,tvEpisode
+tt10447668,tt4052886,5,1,Really Sad Devil Guy,2020,51,nm0251032,tvEpisode
+tt10519880,tt4052886,5,10,Bloody Celestial Karaoke Jam,2021,60,nm2351144,tvEpisode
+tt10782342,tt4052886,5,2,Lucifer! Lucifer! Lucifer!,2020,56,nm2351144,tvEpisode
+tt10959182,tt4052886,5,16,A Chance at a Happy Ending,2021,53,nm0004610,tvEpisode
+tt11051084,tt4052886,5,3,¡Diablo!,2020,54,nm0946475,tvEpisode
+tt11096710,tt4052886,5,4,It Never Ends Well for the Chicken,2020,55,nm0629152,tvEpisode
+tt11132828,tt4052886,5,5,Detective Amenadiel,2020,55,nm0003880,tvEpisode
+tt11202864,tt4052886,5,6,BlueBallz,2020,56,nm0817620,tvEpisode
+tt11284730,tt4052886,5,7,Our Mojo,2020,55,nm0394032,tvEpisode
+tt11284738,tt4052886,5,8,Spoiler Alert,2020,61,nm1204760,tvEpisode
+tt11284740,tt4052886,5,9,Family Dinner,2021,55,nm0394032,tvEpisode
+tt11284742,tt4052886,5,11,Resting Devil Face,2021,53,nm3768241,tvEpisode
+tt11284746,tt4052886,5,12,Daniel Espinoza: Naked and Afraid,2021,58,nm0066439,tvEpisode
+tt11284748,tt4052886,5,13,A Little Harmless Stalking,2021,61,nm0817620,tvEpisode
+tt11284750,tt4052886,5,14,Nothing Lasts Forever,2021,59,nm0132671,tvEpisode
+tt11284754,tt4052886,5,15,Is This Really How It's Going To End?!,2021,63,nm1334994,tvEpisode
+tt12585334,tt4052886,6,1,Nothing Ever Changes Around Here,2021,48,nm1204760,tvEpisode
+tt13063430,tt4052886,6,8,"Save the Devil, Save the World",2021,56,nm0940851,tvEpisode
+tt13063432,tt4052886,6,2,Buckets of Baggage,2021,56,nm0817620,tvEpisode
+tt13063434,tt4052886,6,3,Yabba Dabba Do Me,2021,45,nm0394032,tvEpisode
+tt13063500,tt4052886,6,4,Pin the Tail on the Daddy,2021,45,nm0629152,tvEpisode
+tt13070562,tt4052886,6,5,The Murder of Lucifer Morningstar,2021,47,nm0132671,tvEpisode
+tt13070564,tt4052886,6,6,A Lot Dirtier Than That,2021,55,nm0946475,tvEpisode
+tt13070566,tt4052886,6,7,My Best Fiend's Wedding,2021,59,nm0394032,tvEpisode
+tt13070570,tt4052886,6,9,"Goodbye, Lucifer",2021,66,nm1204760,tvEpisode
+tt13070572,tt4052886,6,10,Partners 'Til the End,2021,53,nm2351144,tvEpisode
+tt4932378,tt4052886,1,1,Pilot,2016,44,nm0936482,tvEpisode
+tt4952842,tt4052886,1,4,Manly Whatnots,2016,42,nm0066584,tvEpisode
+tt4952846,tt4052886,1,5,Sweet Kicks,2016,43,nm0001513,tvEpisode
+tt4952848,tt4052886,1,2,"Lucifer, Stay. Good Devil.",2016,44,nm0394032,tvEpisode
+tt4952850,tt4052886,1,7,Wingman,2016,43,nm0005113,tvEpisode
+tt4952852,tt4052886,1,3,The Would-Be Prince of Darkness,2016,43,nm0587508,tvEpisode
+tt4952854,tt4052886,1,8,"Et Tu, Doctor?",2016,43,nm0251032,tvEpisode
+tt4952856,tt4052886,1,9,A Priest Walks Into a Bar,2016,42,nm0292468,tvEpisode
+tt4952858,tt4052886,1,6,Favorite Son,2016,43,nm0001601,tvEpisode
+tt4952862,tt4052886,1,10,Pops,2016,44,nm0923423,tvEpisode
+tt4952864,tt4052886,1,12,#TeamLucifer,2016,44,nm0066439,tvEpisode
+tt4952866,tt4052886,1,11,St. Lucifer,2016,44,nm0021772,tvEpisode
+tt4952868,tt4052886,1,13,Take Me Back to Hell,2016,43,nm0394032,tvEpisode
+tt5615568,tt4052886,2,1,Everything's Coming Up Lucifer,2016,44,nm0394032,tvEpisode
+tt5668562,tt4052886,2,2,"Liar, Liar, Slutty Dress on Fire",2016,43,nm0587508,tvEpisode
+tt5668566,tt4052886,2,3,Sin-Eater,2016,43,nm0021772,tvEpisode
+tt5668568,tt4052886,2,4,Lady Parts,2016,42,nm0004554,tvEpisode
+tt5668570,tt4052886,2,5,Weaponizer,2016,44,nm0004610,tvEpisode
+tt5668572,tt4052886,2,6,Monster,2016,43,nm0251032,tvEpisode
+tt5668574,tt4052886,2,7,My Little Monkey,2016,43,nm0923423,tvEpisode
+tt5668576,tt4052886,2,8,Trip to Stabby Town,2016,43,nm0394032,tvEpisode
+tt5668578,tt4052886,2,9,Homewrecker,2016,43,nm0066439,tvEpisode
+tt5668580,tt4052886,2,10,Quid Pro Ho,2016,44,nm0394032,tvEpisode
+tt5668582,tt4052886,2,11,Stewardess Interruptus,2017,43,nm0066439,tvEpisode
+tt5668584,tt4052886,2,12,Love Handles,2017,43,nm0004610,tvEpisode
+tt5668586,tt4052886,2,13,A Good Day to Die,2017,43,nm0726975,tvEpisode
+tt6208164,tt4052886,2,14,Candy Morningstar,2017,43,nm0946475,tvEpisode
+tt6208168,tt4052886,2,15,Deceptive Little Parasite,2017,43,nm0849236,tvEpisode
+tt6208170,tt4052886,2,16,God Johnson,2017,43,nm2351144,tvEpisode
+tt6208174,tt4052886,2,17,Sympathy for the Goddess,2017,43,nm0587508,tvEpisode
+tt6208182,tt4052886,2,18,"The Good, the Bad, and the Crispy",2017,43,nm0004610,tvEpisode
+tt6533292,tt4052886,3,1,"They're Back, Aren't They?",2017,43,nm0004610,tvEpisode
+tt6552784,tt4052886,3,2,The One with the Baby Carrot,2017,43,nm0587508,tvEpisode
+tt6552798,tt4052886,3,3,Mr. and Mrs. Mazikeen Smith,2017,43,nm0923423,tvEpisode
+tt6552806,tt4052886,3,4,What Would Lucifer Do?,2017,43,nm0251032,tvEpisode
+tt6552810,tt4052886,3,5,"Welcome Back, Charlotte Richards",2017,43,nm0394032,tvEpisode
+tt6552820,tt4052886,3,6,Vegas With Some Radish,2017,43,nm0004610,tvEpisode
+tt6552836,tt4052886,3,7,Off the Record,2017,43,nm0844896,tvEpisode
+tt6552842,tt4052886,3,8,Chloe Does Lucifer,2017,43,nm0587508,tvEpisode
+tt6552844,tt4052886,3,9,The Sinnerman,2017,43,nm1392007,tvEpisode
+tt6552852,tt4052886,3,10,The Sin Bin,2017,43,nm0066439,tvEpisode
+tt6552860,tt4052886,3,11,City of Angels?,2018,43,nm0867127,tvEpisode
+tt6552872,tt4052886,3,12,All About Her,2018,43,nm0923423,tvEpisode
+tt6552878,tt4052886,3,13,Til Death Do Us Part,2018,43,nm2351144,tvEpisode
+tt6552884,tt4052886,3,14,My Brother's Keeper,2018,43,nm0946475,tvEpisode
+tt6552892,tt4052886,3,15,High School Poppycock,2018,43,nm0587508,tvEpisode
+tt6552894,tt4052886,3,16,Infernal Guinea Pig,2018,43,nm0251032,tvEpisode
+tt6552896,tt4052886,3,17,Let Pinhead Sing!,2018,43,nm0726975,tvEpisode
+tt6552900,tt4052886,3,18,The Last Heartbreak,2018,43,nm0191697,tvEpisode
+tt6552904,tt4052886,3,19,Orange Is the New Maze,2018,43,nm0394032,tvEpisode
+tt6552906,tt4052886,3,20,The Angel of San Bernardino,2018,43,nm0923423,tvEpisode
+tt6552910,tt4052886,3,21,Anything Pierce Can Do I Can Do Better,2018,43,nm0006687,tvEpisode
+tt6552914,tt4052886,3,22,All Hands on Decker,2018,43,nm0844896,tvEpisode
+tt8253126,tt4052886,3,24,A Devil of My Word,2018,43,nm0251032,tvEpisode
+tt8253134,tt4052886,3,23,Quintessential Deckerstar,2018,43,nm0946475,tvEpisode
+tt8457974,tt4052886,3,25,Boo Normal,2018,43,nm0132671,tvEpisode
+tt8458056,tt4052886,3,26,Once Upon a Time,2018,43,nm1204760,tvEpisode
+tt8564388,tt4052886,4,1,Everything's Okay,2019,49,nm2351144,tvEpisode
+tt8565620,tt4052886,4,2,Somebody's Been Reading Dante's Inferno,2019,50,nm0003880,tvEpisode
+tt8565622,tt4052886,4,3,"O, Ye of Little Faith, Father",2019,49,nm1121978,tvEpisode
+tt8565624,tt4052886,4,4,All About Eve,2019,48,nm2351144,tvEpisode
+tt8565626,tt4052886,4,5,Expire Erect,2019,50,nm0629152,tvEpisode
+tt8565628,tt4052886,4,6,Orgy Pants to Work,2019,50,nm0587508,tvEpisode
+tt8565630,tt4052886,4,7,Devil Is as Devil Does,2019,48,nm0817620,tvEpisode
+tt8565634,tt4052886,4,8,Super Bad Boyfriend,2019,51,nm0946475,tvEpisode
+tt8565638,tt4052886,4,9,Save Lucifer,2019,50,nm0132671,tvEpisode
+tt8565640,tt4052886,4,10,Who's da New King of Hell?,2019,55,nm0251032,tvEpisode
+tt10674820,tt5420376,4,2,Chapter Fifty-Nine: Fast Times at Riverdale High,2019,42,nm2408871,tvEpisode
+tt10884066,tt5420376,4,3,Chapter Sixty: Dog Day Afternoon,2019,42,nm0808376,tvEpisode
+tt10884082,tt5420376,4,4,Chapter Sixty-One: Halloween,2019,42,nm2451007,tvEpisode
+tt10938590,tt5420376,4,5,Chapter Sixty-Two: Witness for the Prosecution,2019,41,nm0423158,tvEpisode
+tt11056146,tt5420376,4,6,Chapter Sixty-Three: Hereditary,2019,42,nm3286970,tvEpisode
+tt11056160,tt5420376,4,7,Chapter Sixty-Four: The Ice Storm,2019,42,nm0683478,tvEpisode
+tt11286746,tt5420376,4,8,Chapter Sixty-Five: In Treatment,2019,42,nm0003922,tvEpisode
+tt11316620,tt5420376,4,9,Chapter Sixty-Six: Tangerine,2019,42,nm3286970,tvEpisode
+tt11372632,tt5420376,4,11,Chapter Sixty-Eight: Quiz Show,2020,42,nm5029623,tvEpisode
+tt11401822,tt5420376,4,10,Chapter Sixty-Seven: Varsity Blues,2020,42,nm1671066,tvEpisode
+tt11568508,tt5420376,5,1,Chapter Seventy-Seven: Climax,2021,42,nm2408871,tvEpisode
+tt11630932,tt5420376,4,12,Chapter Sixty-Nine: Men of Honor,2020,42,nm1642908,tvEpisode
+tt11662332,tt5420376,4,13,Chapter Seventy: The Ides of March,2020,42,nm0946475,tvEpisode
+tt11662356,tt5420376,4,14,Chapter Seventy-One: How to Get Away with Murder,2020,42,nm7808308,tvEpisode
+tt11800266,tt5420376,4,15,Chapter Seventy-Two: To Die For,2020,42,nm0463320,tvEpisode
+tt11814816,tt5420376,4,16,Chapter Seventy-Three: The Locked Room,2020,42,nm0086745,tvEpisode
+tt11814826,tt5420376,4,17,Chapter Seventy-Four: Wicked Little Town,2020,42,nm0624423,tvEpisode
+tt11814828,tt5420376,4,18,Chapter Seventy-Five: Lynchian,2020,42,nm0011876,tvEpisode
+tt12076644,tt5420376,4,19,Chapter Seventy-Six: Killing Mr. Honey,2020,41,nm0000749,tvEpisode
+tt13267198,tt5420376,5,2,Chapter Seventy-Eight: The Preppy Murders,2021,41,nm3286970,tvEpisode
+tt13267206,tt5420376,5,3,Chapter Seventy-Nine: Graduation,2021,42,nm3286970,tvEpisode
+tt13267224,tt5420376,5,4,Chapter Eighty: Purgatorio,2021,42,nm0011876,tvEpisode
+tt13267234,tt5420376,5,5,Chapter Eighty-One: The Homecoming,2021,41,nm0011876,tvEpisode
+tt13664442,tt5420376,5,6,Chapter Eighty-Two: Back to School,2021,41,nm3286970,tvEpisode
+tt13664756,tt5420376,5,7,Chapter Eighty-Three: Fire in the Sky,2021,42,nm3286970,tvEpisode
+tt13977218,tt5420376,6,1,Chapter Ninety-Six: Welcome to Rivervale,2021,42,nm3286970,tvEpisode
+tt13977630,tt5420376,6,2,Chapter Ninety-Seven: Ghost Stories,2021,42,nm3286970,tvEpisode
+tt14138672,tt5420376,5,8,Chapter Eighty-Four: Lock & Key,2021,42,nm0003080,tvEpisode
+tt14138778,tt5420376,5,9,Chapter Eighty-Five: Destroyer,2021,42,nm1032600,tvEpisode
+tt14138838,tt5420376,5,10,Chapter Eighty-Six: The Pincushion Man,2021,42,nm3286970,tvEpisode
+tt14146694,tt5420376,5,11,Chapter Eighty-Seven: Strange Bedfellows,2021,42,nm0086745,tvEpisode
+tt14787320,tt5420376,5,13,Chapter Eighty-Nine: Reservoir Dogs,2021,42,nm3286970,tvEpisode
+tt14850292,tt5420376,5,12,Chapter Eighty-Eight: Citizen Lodge,2021,42,nm7808308,tvEpisode
+tt15139794,tt5420376,5,14,Chapter Ninety: The Night Gallery,2021,42,nm0000749,tvEpisode
+tt15223376,tt5420376,5,15,Chapter Ninety-One: The Return of the Pussycats,2021,44,nm0002101,tvEpisode
+tt15327922,tt5420376,5,16,Chapter Ninety-Two: Band of Brothers,2021,42,nm0002101,tvEpisode
+tt15327926,tt5420376,5,17,Chapter Ninety-Three: Dance of Death,2021,42,nm1410076,tvEpisode
+tt15327928,tt5420376,5,18,Chapter Ninety-Four: Next to Normal,2021,45,nm3239255,tvEpisode
+tt15327930,tt5420376,5,19,Chapter Ninety-Five: RIVERDALE: RIP (?),2021,42,nm3286970,tvEpisode
+tt15747050,tt5420376,6,3,Chapter Ninety-Eight: Mr. Cypher,2021,42,nm0941276,tvEpisode
+tt5728914,tt5420376,1,1,Chapter One: The River's Edge,2017,46,nm1767218,tvEpisode
+tt5728918,tt5420376,1,2,Chapter Two: A Touch of Evil,2017,42,nm1767218,tvEpisode
+tt5728922,tt5420376,1,3,Chapter Three: Body Double,2017,41,nm1767218,tvEpisode
+tt5728924,tt5420376,1,4,Chapter Four: The Last Picture Show,2017,41,nm0686184,tvEpisode
+tt5728926,tt5420376,1,5,Chapter Five: Heart of Darkness,2017,41,nm1168394,tvEpisode
+tt5728928,tt5420376,1,6,"Chapter Six: Faster, Pussycats! Kill! Kill!",2017,41,nm0011876,tvEpisode
+tt5728930,tt5420376,1,7,Chapter Seven: In a Lonely Place,2017,42,nm0025978,tvEpisode
+tt5728932,tt5420376,1,8,Chapter Eight: The Outsiders,2017,42,nm0441899,tvEpisode
+tt5728934,tt5420376,1,9,Chapter Nine: La Grande Illusion,2017,41,nm0003022,tvEpisode
+tt5728936,tt5420376,1,10,Chapter Ten: The Lost Weekend,2017,41,nm0929360,tvEpisode
+tt5728940,tt5420376,1,11,Chapter Eleven: To Riverdale and Back Again,2017,42,nm0838198,tvEpisode
+tt5728942,tt5420376,1,12,Chapter Twelve: Anatomy of a Murder,2017,42,nm1032600,tvEpisode
+tt5728946,tt5420376,1,13,Chapter Thirteen: The Sweet Hereafter,2017,42,nm1767218,tvEpisode
+tt6618896,tt5420376,2,1,Chapter Fourteen: A Kiss Before Dying,2017,42,nm1032600,tvEpisode
+tt6746362,tt5420376,2,2,Chapter Fifteen: Nighthawks,2017,42,nm0025978,tvEpisode
+tt6746366,tt5420376,2,3,Chapter Sixteen: The Watcher in the Woods,2017,42,nm0838198,tvEpisode
+tt6746372,tt5420376,2,4,Chapter Seventeen: The Town That Dreaded Sundown,2017,42,nm1083540,tvEpisode
+tt6746380,tt5420376,2,5,Chapter Eighteen: When a Stranger Calls,2017,42,nm0696300,tvEpisode
+tt6746392,tt5420376,2,6,Chapter Nineteen: Death Proof,2017,42,nm0453003,tvEpisode
+tt6746402,tt5420376,2,7,Chapter Twenty: Tales from the Darkside,2017,42,nm0929360,tvEpisode
+tt6746406,tt5420376,2,8,Chapter Twenty-One: House of the Devil,2017,42,nm0838198,tvEpisode
+tt6746420,tt5420376,2,9,"Chapter Twenty-Two: Silent Night, Deadly Night",2017,42,nm1032600,tvEpisode
+tt6746428,tt5420376,2,10,Chapter Twenty-Three: The Blackboard Jungle,2018,42,nm0006853,tvEpisode
+tt6746434,tt5420376,2,11,Chapter Twenty-Four: The Wrestler,2018,42,nm0000777,tvEpisode
+tt6746444,tt5420376,2,12,Chapter Twenty-Five: The Wicked and the Divine,2018,42,nm0003080,tvEpisode
+tt6746458,tt5420376,2,13,Chapter Twenty-Six: The Tell-Tale Heart,2018,42,nm0687096,tvEpisode
+tt7124262,tt5420376,2,14,Chapter Twenty-Seven: The Hills Have Eyes,2018,42,nm0441899,tvEpisode
+tt7124300,tt5420376,2,15,Chapter Twenty-Eight: There Will Be Blood,2018,42,nm0686184,tvEpisode
+tt7124328,tt5420376,2,16,Chapter Twenty-Nine: Primary Colors,2018,42,nm2351144,tvEpisode
+tt7124370,tt5420376,2,17,Chapter Thirty: The Noose Tightens,2018,42,nm2980507,tvEpisode
+tt7124394,tt5420376,2,18,Chapter Thirty-One: A Night to Remember,2018,42,nm1083540,tvEpisode
+tt7124426,tt5420376,2,19,Chapter Thirty-Two: Prisoners,2018,42,nm0679662,tvEpisode
+tt7124490,tt5420376,2,20,Chapter Thirty-Three: Shadow of a Doubt,2018,42,nm0808376,tvEpisode
+tt7124590,tt5420376,2,21,Chapter Thirty-Four: Judgment Night,2018,42,nm0637458,tvEpisode
+tt7124636,tt5420376,2,22,Chapter Thirty-Five: Brave New World,2018,42,nm0011876,tvEpisode
+tt8227226,tt5420376,3,1,Chapter Thirty-Six: Labor Day,2018,42,nm0838198,tvEpisode
+tt8451418,tt5420376,3,2,Chapter Thirty-Seven: Fortune and Men's Eyes,2018,42,nm0941276,tvEpisode
+tt8451426,tt5420376,3,3,"Chapter Thirty-Eight: As Above, So Below",2018,42,nm0402493,tvEpisode
+tt8451428,tt5420376,3,5,Chapter Forty: The Great Escape,2018,42,nm2408871,tvEpisode
+tt8451432,tt5420376,3,4,Chapter Thirty-Nine: The Midnight Club,2018,41,nm0929360,tvEpisode
+tt8451434,tt5420376,3,6,Chapter Forty-One: Manhunter,2018,42,nm0003080,tvEpisode
+tt8451436,tt5420376,3,7,Chapter Forty-Two: The Man in Black,2018,42,nm0683478,tvEpisode
+tt8451438,tt5420376,3,8,Chapter Forty-Three: Outbreak,2018,41,nm0470971,tvEpisode
+tt8451440,tt5420376,3,11,Chapter Forty-Six: The Red Dahlia,2019,42,nm0808376,tvEpisode
+tt8451442,tt5420376,3,9,Chapter Forty-Four: No Exit,2019,42,nm0402493,tvEpisode
+tt8451444,tt5420376,3,12,Chapter Forty-Seven: Bizarrodale,2019,42,nm0423158,tvEpisode
+tt8451446,tt5420376,3,10,Chapter Forty-Five: The Stranger,2019,42,nm0453003,tvEpisode
+tt8451450,tt5420376,3,13,Chapter Forty-Eight: Requiem for a Welterweight,2019,42,nm0571739,tvEpisode
+tt8589998,tt5420376,3,14,Chapter Forty-Nine: Fire Walk with Me,2019,42,nm1392007,tvEpisode
+tt8590008,tt5420376,3,15,Chapter Fifty: American Dreams,2019,42,nm3286970,tvEpisode
+tt8590014,tt5420376,3,16,Chapter Fifty-One: Big Fun,2019,42,nm0453003,tvEpisode
+tt8590024,tt5420376,3,17,Chapter Fifty-Two: The Raid,2019,42,nm2408871,tvEpisode
+tt8590026,tt5420376,3,18,Chapter Fifty-Three: Jawbreaker,2019,42,nm3286970,tvEpisode
+tt8590030,tt5420376,3,19,Chapter Fifty-Four: Fear the Reaper,2019,42,nm0190597,tvEpisode
+tt8590032,tt5420376,3,20,Chapter Fifty-Five: Prom Night,2019,41,nm0441899,tvEpisode
+tt8590036,tt5420376,3,21,Chapter Fifty-Six: The Dark Secret of Harvest House,2019,42,nm1032600,tvEpisode
+tt8590040,tt5420376,3,22,Chapter Fifty-Seven: Survive the Night,2019,42,nm0003080,tvEpisode
+tt9695694,tt5420376,4,1,Chapter Fifty-Eight: In Memoriam,2019,42,nm3286970,tvEpisode
+tt0712938,tt0426371,1,8,A Prom Story,2005,30,nm0236930,tvEpisode
+tt0712939,tt0426371,1,9,Band in Boston,2005,30,nm0180902,tvEpisode
+tt0712940,tt0426371,1,16,Big Hair & Baseball,2005,30,nm0180902,tvEpisode
+tt0712941,tt0426371,2,9,Books and Birdhouses,2006,30,nm0180902,tvEpisode
+tt0712942,tt0426371,1,26,Boston Holiday,2006,30,nm0664829,tvEpisode
+tt0712943,tt0426371,2,13,Bowling,2006,30,nm0180902,tvEpisode
+tt0712944,tt0426371,1,21,Christmas at the Tipton,2005,30,nm0180902,tvEpisode
+tt0712945,tt0426371,1,10,Cody Goes to Camp,2005,30,nm0180902,tvEpisode
+tt0712946,tt0426371,1,25,Commercial Breaks,2006,30,nm0180902,tvEpisode
+tt0712947,tt0426371,1,14,Cookin' with Romeo and Juliet,2005,30,nm0236930,tvEpisode
+tt0712948,tt0426371,1,24,Crushed,2006,30,nm0180902,tvEpisode
+tt0712949,tt0426371,1,20,Dad's Back,2005,30,nm0180902,tvEpisode
+tt0712950,tt0426371,2,3,Day Care,2006,30,nm0236930,tvEpisode
+tt0712951,tt0426371,1,7,Footloser,2005,30,nm0180902,tvEpisode
+tt0712952,tt0426371,1,2,The Fairest of Them All,2005,30,nm0180902,tvEpisode
+tt0712953,tt0426371,2,6,Forever Plaid,2006,30,nm0236930,tvEpisode
+tt0712954,tt0426371,2,2,French 101,2006,30,nm0180902,tvEpisode
+tt0712955,tt0426371,1,5,Grounded on the 23rd Floor,2005,30,nm0155117,tvEpisode
+tt0712956,tt0426371,1,1,Hotel Hangout,2005,30,nm0180902,tvEpisode
+tt0712957,tt0426371,1,4,Hotel Inspector,2005,30,nm1080142,tvEpisode
+tt0712958,tt0426371,1,12,"It's a Mad, Mad, Mad Hotel",2005,30,nm0664829,tvEpisode
+tt0712959,tt0426371,1,22,Kisses and Basketball,2006,30,nm0436039,tvEpisode
+tt0712960,tt0426371,1,3,Maddie Checks In,2005,30,nm0180902,tvEpisode
+tt0712961,tt0426371,2,22,A Midsummer's Nightmare,2006,30,nm0664829,tvEpisode
+tt0712962,tt0426371,2,12,Neither a Borrower Nor a Speller Bee,2006,30,nm0664829,tvEpisode
+tt0712963,tt0426371,2,1,Odd Couples,2006,30,nm0436039,tvEpisode
+tt0712964,tt0426371,1,23,Pilot Your Own Life,2006,30,nm0664829,tvEpisode
+tt0712965,tt0426371,1,13,Poor Little Rich Girl,2005,30,nm0212027,tvEpisode
+tt0712966,tt0426371,1,17,Rock Star in the House,2005,30,nm0761349,tvEpisode
+tt0712967,tt0426371,1,15,Rumors,2005,30,nm0180902,tvEpisode
+tt0712968,tt0426371,1,18,Smart and Smarter,2005,30,nm0180902,tvEpisode
+tt0712970,tt0426371,1,19,The Ghost of Suite 613,2005,30,nm0180902,tvEpisode
+tt0712971,tt0426371,1,6,The Prince and the Plunger,2005,30,nm0874716,tvEpisode
+tt0712972,tt0426371,1,11,To Catch a Thief,2005,30,nm0566841,tvEpisode
+tt0712973,tt0426371,2,21,What the Hey!,2006,30,nm0664829,tvEpisode
+tt0759871,tt0426371,2,10,Not So Suite 16,2006,30,nm0180902,tvEpisode
+tt0763062,tt0426371,2,4,Heck's Kitchen,2006,30,nm0180902,tvEpisode
+tt0770658,tt0426371,2,5,Free Tippy,2006,22,nm0180902,tvEpisode
+tt0770867,tt0426371,2,8,Moseby's Big Brother,2006,22,nm0180902,tvEpisode
+tt0773739,tt0426371,2,7,Election,2006,22,nm0180902,tvEpisode
+tt0774437,tt0426371,2,11,Twins at the Tipton,2006,22,nm0180902,tvEpisode
+tt0780824,tt0426371,2,18,Have a Nice Trip,2006,22,nm0180902,tvEpisode
+tt0781303,tt0426371,2,15,The Suite Smell of Excess,2006,22,nm0761349,tvEpisode
+tt0786247,tt0426371,2,19,Ask Zack,2006,22,nm1339949,tvEpisode
+tt0786617,tt0426371,2,16,Going for the Gold,2006,22,nm0180902,tvEpisode
+tt0795291,tt0426371,2,23,Lost in Translation,2006,22,nm0180902,tvEpisode
+tt0796744,tt0426371,2,24,Volley Dad,2006,22,nm0761349,tvEpisode
+tt0799362,tt0426371,2,14,Kept Man,2006,22,nm0236930,tvEpisode
+tt0809800,tt0426371,2,17,Boston Tea Party,2006,22,nm0180902,tvEpisode
+tt0809801,tt0426371,2,34,Health & Fitness,2007,22,nm0180902,tvEpisode
+tt0825626,tt0426371,2,20,That's So Suite Life of Hannah Montana,2006,23,nm0180902,tvEpisode
+tt0828324,tt0426371,2,25,Loosely Ballroom,2006,22,nm0180902,tvEpisode
+tt0830112,tt0426371,2,30,Club Twin,2007,22,nm0664829,tvEpisode
+tt0833368,tt0426371,2,33,Miniature Golf,2007,22,nm0236930,tvEpisode
+tt0836505,tt0426371,2,39,Aptitude,2007,22,nm0436039,tvEpisode
+tt0837032,tt0426371,2,27,"Ah, Wilderness",2006,22,nm0180902,tvEpisode
+tt0854031,tt0426371,2,32,A Nugget of History,2007,22,nm0436039,tvEpisode
+tt0862404,tt0426371,2,26,Scary Movie,2006,22,nm0180902,tvEpisode
+tt0882621,tt0426371,2,31,Risk It All,2007,22,nm0180902,tvEpisode
+tt0895785,tt0426371,2,36,The Suite Life Goes Hollywood: Part 1,2007,23,nm0180902,tvEpisode
+tt0898037,tt0426371,2,28,Birdman of Boston,2006,22,nm0180902,tvEpisode
+tt0908887,tt0426371,2,29,Nurse Zack,2006,22,nm0180902,tvEpisode
+tt0946692,tt0426371,2,37,The Suite Life Goes Hollywood: Part 2,2007,22,nm0180902,tvEpisode
+tt0946693,tt0426371,2,35,Back in the Game,2007,22,nm0180902,tvEpisode
+tt0967966,tt0426371,3,2,Summer of Our Discontent,2007,22,nm0180902,tvEpisode
+tt0969126,tt0426371,3,5,Who's the Boss?,2007,22,nm0180902,tvEpisode
+tt0973616,tt0426371,3,3,Sink or Swim,2007,22,nm0180902,tvEpisode
+tt0973617,tt0426371,3,6,Baggage,2007,22,nm0180902,tvEpisode
+tt0987682,tt0426371,3,7,Sleepover Suite,2007,22,nm0436039,tvEpisode
+tt1020740,tt0426371,2,38,I Want My Mummy,2007,22,nm0507629,tvEpisode
+tt1041500,tt0426371,3,1,Graduation,2007,22,nm0180902,tvEpisode
+tt1072596,tt0426371,3,8,The Arwin That Came to Dinner,2007,22,nm0180902,tvEpisode
+tt1074432,tt0426371,3,9,Lip Synchin' in the Rain,2007,22,nm0180902,tvEpisode
+tt1075624,tt0426371,3,4,Super Twins,2007,23,nm0180902,tvEpisode
+tt1084841,tt0426371,3,14,Orchestra,2007,22,nm0180902,tvEpisode
+tt1093746,tt0426371,3,19,Benchwarmers,2008,22,nm0236930,tvEpisode
+tt1093747,tt0426371,3,10,First Day of High School,2007,22,nm0664829,tvEpisode
+tt1103821,tt0426371,3,13,Team Tipton,2007,22,nm0180902,tvEpisode
+tt1106360,tt0426371,3,11,Of Clocks and Contracts,2007,22,nm0180902,tvEpisode
+tt1120711,tt0426371,3,12,Arwinstein,2007,22,nm0180902,tvEpisode
+tt1121713,tt0426371,3,15,A Tale of Two Houses,2007,22,nm0180902,tvEpisode
+tt1144760,tt0426371,3,20,Doin' Time in Suite 2330,2008,23,nm0180902,tvEpisode
+tt1150839,tt0426371,3,16,Tiptonline,2007,22,nm0180902,tvEpisode
+tt1150840,tt0426371,3,17,Foiled Again,2008,22,nm0436039,tvEpisode
+tt1213540,tt0426371,3,18,Romancing the Phone,2008,22,nm0180902,tvEpisode
+tt1279302,tt0426371,3,21,Let Us Entertain You,2008,22,nm0180902,tvEpisode
+tt1283318,tt0426371,3,22,Mr. Tipton Comes to Visit,2008,22,nm0664829,tvEpisode
+tt0582933,tt0098800,4,13,'Twas the Night Before Christening,1993,23,nm0421675,tvEpisode
+tt0582934,tt0098800,1,23,72 Hours,1991,24,nm0470153,tvEpisode
+tt0582935,tt0098800,5,16,A Decent Proposal,1995,23,nm0421675,tvEpisode
+tt0582936,tt0098800,3,11,A Funny Thing Happened on the Way Home from the Forum,1992,30,nm0421675,tvEpisode
+tt0582937,tt0098800,3,9,A Night at the Oprah,1992,30,nm0421675,tvEpisode
+tt0582938,tt0098800,3,22,Ain't No Business Like Show Business,1993,24,nm0421675,tvEpisode
+tt0582939,tt0098800,4,3,"All Guts, No Glory",1993,23,nm0421675,tvEpisode
+tt0582940,tt0098800,5,20,As the Will Turns,1995,23,nm0421675,tvEpisode
+tt0582941,tt0098800,3,10,Asses to Ashes,1992,24,nm0421675,tvEpisode
+tt0582942,tt0098800,1,2,"Bang the Drum, Ashley",1990,24,nm0000739,tvEpisode
+tt0582943,tt0098800,1,22,Banks Shot,1991,24,nm0578162,tvEpisode
+tt0582944,tt0098800,2,23,Be My Baby Tonight,1992,24,nm0421675,tvEpisode
+tt0582945,tt0098800,4,8,Blood Is Thicker Than Mud,1993,22,nm0899085,tvEpisode
+tt0582946,tt0098800,6,4,Bourgie Sings the Blues,1995,22,nm0421675,tvEpisode
+tt0582947,tt0098800,6,12,Boxing Helena,1996,23,nm0421675,tvEpisode
+tt0582948,tt0098800,3,8,Boyz in the Woods,1992,24,nm0899085,tvEpisode
+tt0582949,tt0098800,6,14,Breaking Up Is Hard to Do: Part 1,1996,22,nm0421675,tvEpisode
+tt0582950,tt0098800,6,15,Breaking Up Is Hard to Do: Part 2,1996,23,nm0421675,tvEpisode
+tt0582951,tt0098800,5,15,Bullets Over Bel-Air,1995,23,nm0421675,tvEpisode
+tt0582952,tt0098800,3,16,Bundle of Joy,1993,21,nm0421675,tvEpisode
+tt0582953,tt0098800,6,1,Burnin' Down the House,1995,30,nm0187892,tvEpisode
+tt0582954,tt0098800,2,9,Cased Up,1991,24,nm0265954,tvEpisode
+tt0582955,tt0098800,2,13,Christmas Show,1991,24,nm0265954,tvEpisode
+tt0582956,tt0098800,1,3,Clubba Hubba,1990,22,nm0578162,tvEpisode
+tt0582957,tt0098800,5,23,"Cold Feet, Hot Body",1995,23,nm0421675,tvEpisode
+tt0582958,tt0098800,2,17,Community Action,1992,24,nm0265954,tvEpisode
+tt0582959,tt0098800,1,11,Courting Disaster,1990,24,nm0578162,tvEpisode
+tt0582960,tt0098800,1,14,Day Damn One,1990,30,nm0578162,tvEpisode
+tt0582961,tt0098800,1,15,Deck the Halls,1990,30,nm0578162,tvEpisode
+tt0582962,tt0098800,1,7,Def Poet's Society,1990,24,nm0578162,tvEpisode
+tt0582963,tt0098800,2,1,Did the Earth Move for You?,1991,24,nm0265954,tvEpisode
+tt0582964,tt0098800,6,22,"Eye, Tooth",1996,23,nm0421675,tvEpisode
+tt0582965,tt0098800,2,19,Eyes on the Prize,1992,24,nm0265954,tvEpisode
+tt0582966,tt0098800,5,7,Father Knows Best,1994,23,nm0421675,tvEpisode
+tt0582967,tt0098800,4,4,Father of the Year,1993,23,nm0421675,tvEpisode
+tt0582968,tt0098800,4,25,For Sale by Owner,1994,23,nm0421675,tvEpisode
+tt0582969,tt0098800,5,25,For Whom the Wedding Bells Toll,1995,23,nm0421675,tvEpisode
+tt0582970,tt0098800,4,9,Fresh Prince After Dark,1993,23,nm0421675,tvEpisode
+tt0582971,tt0098800,5,5,Fresh Prince: The Movie,1994,23,nm0421675,tvEpisode
+tt0582972,tt0098800,2,16,Geoffrey Cleans Up,1992,24,nm0265954,tvEpisode
+tt0582973,tt0098800,6,2,Get a Job,1995,23,nm0421675,tvEpisode
+tt0582974,tt0098800,2,5,Granny Gets Busy,1991,24,nm0265954,tvEpisode
+tt0582975,tt0098800,5,4,Grumpy Young Men,1994,23,nm0421675,tvEpisode
+tt0582976,tt0098800,2,6,Guess Who's Coming to Marry?,1991,24,nm0265954,tvEpisode
+tt0582977,tt0098800,6,18,Hare Today...,1996,23,nm0421675,tvEpisode
+tt0582978,tt0098800,3,7,Here Comes the Judge,1992,24,nm0421675,tvEpisode
+tt0582979,tt0098800,4,7,Hex and the Single Guy,1993,23,nm0421675,tvEpisode
+tt0582980,tt0098800,2,10,Hi-Ho Silver,1991,23,nm0265954,tvEpisode
+tt0582981,tt0098800,3,4,Hilary Gets a Job,1992,24,nm0421675,tvEpisode
+tt0582982,tt0098800,2,14,Hilary Gets a Life,1992,24,nm0421675,tvEpisode
+tt0582983,tt0098800,4,10,Home Is Where the Heart Attack Is,1993,30,nm0421675,tvEpisode
+tt0582984,tt0098800,1,5,"Homeboy, Sweet Homeboy",1990,24,nm0578162,tvEpisode
+tt0582985,tt0098800,3,1,How I Spent My Summer Vacation,1992,24,nm0421675,tvEpisode
+tt0582986,tt0098800,4,16,I Know Why the Caged Bird Screams,1994,23,nm0421675,tvEpisode
+tt0582987,tt0098800,6,16,"I, Bowl Buster",1996,23,nm0421675,tvEpisode
+tt0582988,tt0098800,6,13,"I, Clownius",1996,22,nm0421675,tvEpisode
+tt0582989,tt0098800,6,23,"I, Done: Part 1",1996,23,nm0421675,tvEpisode
+tt0582990,tt0098800,6,24,"I, Done: Part 2",1996,24,nm0421675,tvEpisode
+tt0582991,tt0098800,6,11,"I, Ooh, Baby, Baby",1995,23,nm0005355,tvEpisode
+tt0582992,tt0098800,6,21,"I, Stank Hole in One",1996,23,nm0907439,tvEpisode
+tt0582993,tt0098800,6,20,"I, Stank Horse",1996,23,nm0421675,tvEpisode
+tt0582994,tt0098800,6,19,"I, Whoops, There It Is",1996,23,nm0421675,tvEpisode
+tt0582995,tt0098800,2,18,Ill Will,1992,24,nm0265954,tvEpisode
+tt0582996,tt0098800,1,19,It Had to Be You,1991,24,nm0578162,tvEpisode
+tt0582997,tt0098800,4,5,It's Better to Have Loved and Lost It...,1993,23,nm0421675,tvEpisode
+tt0582998,tt0098800,5,14,It's a Wonderful Lie,1995,23,nm0899085,tvEpisode
+tt0582999,tt0098800,1,24,Just Infatuation,1991,24,nm0578162,tvEpisode
+tt0583000,tt0098800,3,19,Just Say Yo,1993,24,nm0421675,tvEpisode
+tt0583001,tt0098800,1,10,Kiss My Butler,1990,24,nm5165734,tvEpisode
+tt0583002,tt0098800,1,13,Knowledge Is Power,1990,24,nm0578162,tvEpisode
+tt0583003,tt0098800,5,9,Love Hurts,1994,23,nm0421675,tvEpisode
+tt0583004,tt0098800,1,21,Love at First Fight,1991,24,nm0578162,tvEpisode
+tt0583005,tt0098800,5,24,Love in an Elevator,1995,23,nm0899330,tvEpisode
+tt0583006,tt0098800,4,22,M Is for the Many Things She Gave Me,1994,23,nm0421675,tvEpisode
+tt0583007,tt0098800,3,5,"Mama's Baby, Carlton's Maybe",1992,24,nm0421675,tvEpisode
+tt0583008,tt0098800,1,6,Mistaken Identity,1990,24,nm0578162,tvEpisode
+tt0583009,tt0098800,3,13,Mommy Nearest,1992,24,nm0421675,tvEpisode
+tt0583010,tt0098800,4,23,Mother's Day,1994,23,nm0187892,tvEpisode
+tt0583011,tt0098800,2,15,My Brother's Keeper,1992,24,nm0265954,tvEpisode
+tt0583012,tt0098800,1,20,Nice Lady,1991,24,nm0578162,tvEpisode
+tt0583013,tt0098800,6,7,Not with My Cousin You Don't,1995,23,nm0421675,tvEpisode
+tt0583014,tt0098800,1,4,"Not with My Pig, You Don't",1990,24,nm0578162,tvEpisode
+tt0583015,tt0098800,6,6,"Not, I Barbecue",1995,30,nm0187892,tvEpisode
+tt0583016,tt0098800,3,6,P.S. I Love You,1992,24,nm0421675,tvEpisode
+tt0583017,tt0098800,2,4,PSAT Pstory,1991,24,nm0265954,tvEpisode
+tt0583018,tt0098800,4,24,Papa's Got a Brand New Excuse,1994,23,nm0421675,tvEpisode
+tt0583019,tt0098800,5,3,Reality Bites,1994,23,nm0421675,tvEpisode
+tt0583020,tt0098800,3,15,Robbing the Banks,1993,24,nm0421675,tvEpisode
+tt0583021,tt0098800,5,12,"Same Game, Next Season",1994,23,nm0421675,tvEpisode
+tt0583022,tt0098800,5,21,Save the Last Trance for Me,1995,23,nm0421675,tvEpisode
+tt0583023,tt0098800,2,8,She Ain't Heavy,1991,24,nm0265954,tvEpisode
+tt0583024,tt0098800,3,24,Six Degrees of Graduation,1993,24,nm0421675,tvEpisode
+tt0583025,tt0098800,4,14,Sleepless in Bel-Air,1994,23,nm0421675,tvEpisode
+tt0583026,tt0098800,5,19,Slum Like It... Not!,1995,23,nm0421675,tvEpisode
+tt0583027,tt0098800,1,8,Someday Your Prince Will Be in Effect: Part 1,1990,60,nm0578162,tvEpisode
+tt0583028,tt0098800,1,9,Someday Your Prince Will Be in Effect: Part 2,1990,60,nm0578162,tvEpisode
+tt0583029,tt0098800,2,12,Something for Nothing,1991,24,nm0265954,tvEpisode
+tt0583030,tt0098800,5,8,Soooooooul Train,1994,23,nm0421675,tvEpisode
+tt0583031,tt0098800,4,18,Stop Will! In the Name of Love,1994,23,nm0899330,tvEpisode
+tt0583032,tt0098800,6,3,Stress Related,1995,23,nm0421675,tvEpisode
+tt0583033,tt0098800,2,24,Striptease for Two,1992,23,nm0421675,tvEpisode
+tt0583034,tt0098800,4,11,Take My Cousin... Please,1993,23,nm0421675,tvEpisode
+tt0583035,tt0098800,1,12,Talking Turkey,1990,24,nm0578162,tvEpisode
+tt0583036,tt0098800,3,3,"That's No Lady, That's My Cousin",1992,24,nm0421675,tvEpisode
+tt0583037,tt0098800,3,18,The Alma Matter,1993,24,nm0421675,tvEpisode
+tt0583038,tt0098800,2,22,The Aunt Who Came to Dinner,1992,24,nm0470153,tvEpisode
+tt0583039,tt0098800,3,20,The Baby Comes Out,1993,23,nm0421675,tvEpisode
+tt0583040,tt0098800,3,17,The Best Laid Plans,1993,44,nm0421675,tvEpisode
+tt0583041,tt0098800,2,7,The Big Four-Oh,1991,24,nm0265954,tvEpisode
+tt0583042,tt0098800,2,11,The Butler Did It,1991,24,nm0265954,tvEpisode
+tt0583043,tt0098800,6,17,The Butler's Son Did It,1996,23,nm0187892,tvEpisode
+tt0583044,tt0098800,5,1,The Client,1994,23,nm0421675,tvEpisode
+tt0583045,tt0098800,3,12,The Cold War,1992,24,nm0676592,tvEpisode
+tt0583046,tt0098800,1,17,The Ethnic Tip,1991,24,nm0578162,tvEpisode
+tt0583047,tt0098800,1,1,The Fresh Prince Project,1990,23,nm0000739,tvEpisode
+tt0583048,tt0098800,4,21,The Harder They Fall,1994,30,nm0421675,tvEpisode
+tt0583049,tt0098800,1,16,The Lucky Charm,1991,23,nm0578162,tvEpisode
+tt0583050,tt0098800,2,2,The Mother of All Battles,1991,23,nm0265954,tvEpisode
+tt0583051,tt0098800,4,20,The Ol' Ball and Chain,1994,23,nm0421675,tvEpisode
+tt0583052,tt0098800,4,26,The Philadelphia Story,1994,23,nm0421675,tvEpisode
+tt0583053,tt0098800,6,5,The Script Formerly Known As...,1995,30,nm0421675,tvEpisode
+tt0583054,tt0098800,3,23,The Way We Were,1993,24,nm0899330,tvEpisode
+tt0583055,tt0098800,5,18,The Wedding Show (Psyche!),1995,23,nm0421675,tvEpisode
+tt0583056,tt0098800,6,9,There's the Rub: Part 1,1995,23,nm0421675,tvEpisode
+tt0583057,tt0098800,6,10,There's the Rub: Part 2,1995,23,nm0421675,tvEpisode
+tt0583058,tt0098800,2,20,Those Were the Days,1992,24,nm5165734,tvEpisode
+tt0583059,tt0098800,5,13,Three's a Crowd,1995,23,nm0187892,tvEpisode
+tt0583060,tt0098800,5,22,To Thine Own Self Be Blue... and Gold,1995,23,nm0421675,tvEpisode
+tt0583061,tt0098800,6,8,Viva Lost Wages,1995,22,nm0421675,tvEpisode
+tt0583062,tt0098800,2,21,Vying for Attention,1992,24,nm0912528,tvEpisode
+tt0583063,tt0098800,5,2,What's Will Got to Do with It?,1994,23,nm0421675,tvEpisode
+tt0583064,tt0098800,4,17,When You Hit Upon a Star,1994,23,nm0421675,tvEpisode
+tt0583065,tt0098800,4,1,"Where There's a Will, There's a Way: Part 1",1993,22,nm0421675,tvEpisode
+tt0583066,tt0098800,4,15,Who's the Boss?,1994,23,nm0421675,tvEpisode
+tt0583067,tt0098800,3,2,Will Gets Committed,1992,30,nm0421675,tvEpisode
+tt0583068,tt0098800,2,3,Will Gets a Job,1991,24,nm0265954,tvEpisode
+tt0583069,tt0098800,4,6,Will Goes a Courtin',1993,22,nm0421675,tvEpisode
+tt0583070,tt0098800,5,17,Will Is from Mars...,1995,23,nm0421675,tvEpisode
+tt0583071,tt0098800,5,11,Will Steps Out,1994,23,nm0421675,tvEpisode
+tt0583072,tt0098800,5,6,Will's Misery,1994,23,nm0421675,tvEpisode
+tt0583073,tt0098800,5,10,Will's Up a Dirt Road,1994,23,nm0421675,tvEpisode
+tt0583074,tt0098800,3,14,Winner Takes Off,1993,24,nm0421675,tvEpisode
+tt0583075,tt0098800,1,25,Working It Out,1991,24,nm5165734,tvEpisode
+tt0583076,tt0098800,3,21,You Bet Your Life,1993,24,nm0899085,tvEpisode
+tt0583077,tt0098800,4,19,You'd Better Shop Around,1994,22,nm0421675,tvEpisode
+tt0583078,tt0098800,4,12,You've Got to Be a Football Hero,1993,30,nm0421675,tvEpisode
+tt0583079,tt0098800,1,18,The Young and the Restless,1991,24,nm0578162,tvEpisode
+tt0834696,tt0098800,4,2,"Where There's a Will, There's a Way: Part 2",1993,23,nm0421675,tvEpisode
+tt0735137,tt0369179,2,3,A Bag Full of Jawea,2004,20,nm0296945,tvEpisode
+tt0735138,tt0369179,2,7,A Kosher Slaughterhouse Out in Fontana,2004,22,nm0296945,tvEpisode
+tt0735139,tt0369179,2,19,"A Low, Guttural Tongue-Flapping Noise",2005,22,nm0357143,tvEpisode
+tt0735140,tt0369179,2,12,A Lung Full of Alan,2005,22,nm0296945,tvEpisode
+tt0735141,tt0369179,2,21,A Sympathetic Crotch to Cry On,2005,21,nm0296945,tvEpisode
+tt0735142,tt0369179,1,11,"Alan Harper, Frontier Chiropractor",2003,20,nm0075669,tvEpisode
+tt0735143,tt0369179,1,18,An Old Flame with a New Wick,2004,21,nm0923396,tvEpisode
+tt0735144,tt0369179,1,17,"Ate the Hamburgers, Wearing the Hats",2004,20,nm0923396,tvEpisode
+tt0735145,tt0369179,2,1,Back Off Mary Poppins,2004,21,nm0296945,tvEpisode
+tt0735146,tt0369179,2,5,Bad News from the Clinic,2004,22,nm0296945,tvEpisode
+tt0735147,tt0369179,1,12,Camel Filters and Pheromones,2004,21,nm0075669,tvEpisode
+tt0735148,tt0369179,2,16,Can You Eat Human Flesh with Wooden Teeth?,2005,22,nm0296945,tvEpisode
+tt0735149,tt0369179,1,24,Can You Feel My Finger,2004,22,nm0771673,tvEpisode
+tt0735150,tt0369179,3,3,Carpet Burns and a Bite Mark,2005,22,nm0357143,tvEpisode
+tt0735151,tt0369179,1,6,Did You Check with the Captain of the Flying Monkeys?,2003,21,nm0009953,tvEpisode
+tt0735152,tt0369179,2,24,Does This Smell Funny to You,2005,21,nm0296945,tvEpisode
+tt0735153,tt0369179,2,2,Enjoy Those Garlic Balls,2004,22,nm0296945,tvEpisode
+tt0735154,tt0369179,2,8,Frankenstein and the Horny Villagers,2004,22,nm0296945,tvEpisode
+tt0735155,tt0369179,1,3,Go East on Sunset Until You Reach the Gates of Hell,2003,22,nm0009953,tvEpisode
+tt0735156,tt0369179,1,20,"Hey, I Can Pee Outside in the Dark",2004,21,nm0357143,tvEpisode
+tt0735157,tt0369179,3,6,"Hi, Mr. Horned One",2005,22,nm0357143,tvEpisode
+tt0735158,tt0369179,3,13,Humiliation Is a Visual Medium,2006,22,nm0771673,tvEpisode
+tt0735159,tt0369179,2,20,I Always Wanted a Shaved Monkey,2005,22,nm0445380,tvEpisode
+tt0735160,tt0369179,1,14,I Can't Afford Hyenas,2004,21,nm0771673,tvEpisode
+tt0735161,tt0369179,1,19,"I Remember the Coatroom, I Just Don't Remember You",2004,19,nm0541562,tvEpisode
+tt0735162,tt0369179,1,4,"If I Can't Write My Chocolate Song, I'm Going to Take a Nap",2003,22,nm0009953,tvEpisode
+tt0735163,tt0369179,1,7,"If They Do Go Either Way, They're Usually Fake",2003,22,nm0009953,tvEpisode
+tt0735164,tt0369179,2,18,"It Was Mame, Mom",2005,22,nm0296945,tvEpisode
+tt0735165,tt0369179,1,23,Just Like Buffalo,2004,21,nm0771673,tvEpisode
+tt0735166,tt0369179,2,11,Last Chance to See Those Tattoos,2004,22,nm0296945,tvEpisode
+tt0735167,tt0369179,3,9,Madame and Her Special Friend,2005,22,nm0445380,tvEpisode
+tt0735168,tt0369179,1,10,Merry Thanksgiving,2003,21,nm0004105,tvEpisode
+tt0735169,tt0369179,1,22,My Doctor Has a Cow Puppet,2004,21,nm0541562,tvEpisode
+tt0735170,tt0369179,1,21,"No Sniffing, No Wowing",2004,22,nm0771673,tvEpisode
+tt0735171,tt0369179,1,9,"Phase One, Complete",2003,21,nm0009953,tvEpisode
+tt0735172,tt0369179,1,1,Pilot,2003,23,nm0123273,tvEpisode
+tt0735173,tt0369179,3,2,Principal Gallagher's Lesbian Lover,2005,22,nm0357143,tvEpisode
+tt0735174,tt0369179,1,15,Round One to the Hot Crazy Chick,2004,22,nm0923396,tvEpisode
+tt0735175,tt0369179,3,11,Santa's Village of the Damned,2005,22,nm0771673,tvEpisode
+tt0735176,tt0369179,1,13,Sarah Like Puny Alan,2004,21,nm0075669,tvEpisode
+tt0735177,tt0369179,3,7,"Sleep Tight, Puddin' Pop",2005,22,nm0357143,tvEpisode
+tt0735178,tt0369179,2,15,Smell the Umbrella Stand,2005,22,nm0296945,tvEpisode
+tt0735179,tt0369179,3,10,Something Salted and Twisted,2005,22,nm0771673,tvEpisode
+tt0735180,tt0369179,2,23,"Squab, Squab, Squab, Squab, Squab",2005,21,nm0516568,tvEpisode
+tt0735181,tt0369179,2,22,That Old Hose Bag Is My Mother,2005,22,nm0357143,tvEpisode
+tt0735182,tt0369179,3,12,That Special Tug,2006,22,nm0771673,tvEpisode
+tt0735183,tt0369179,3,8,That Voodoo That I Do Do,2005,22,nm0357143,tvEpisode
+tt0735184,tt0369179,1,16,"That Was Saliva, Alan",2004,22,nm0923396,tvEpisode
+tt0735185,tt0369179,1,5,The Last Thing You Want Is to Wind Up with a Hump,2003,19,nm0009953,tvEpisode
+tt0735186,tt0369179,2,10,The Salmon Under My Sweater,2004,21,nm0296945,tvEpisode
+tt0735187,tt0369179,2,14,Those Big Pink Things with Coconut,2005,22,nm0296945,tvEpisode
+tt0735188,tt0369179,1,8,Twenty-five Little Pre-pubers Without a Snoot-ful,2003,19,nm0521143,tvEpisode
+tt0735189,tt0369179,3,5,We Called It Mr. Pinky,2005,22,nm0357143,tvEpisode
+tt0735190,tt0369179,3,1,Weekend in Bangkok with Two Olympic Gymnasts,2005,22,nm0357143,tvEpisode
+tt0735191,tt0369179,2,17,"Woo-Hoo, a Hernia-Exam!",2005,22,nm0296945,tvEpisode
+tt0735192,tt0369179,2,9,"Yes, Monsignor",2004,22,nm0296945,tvEpisode
+tt0735193,tt0369179,3,4,Your Dismissive Attitude Toward Boobs,2005,22,nm0357143,tvEpisode
+tt0735194,tt0369179,2,13,Zejdz z Zmoich Wlosów,2005,21,nm0296945,tvEpisode
+tt0759359,tt0369179,3,14,"Love Isn't Blind, It's Retarded",2006,22,nm0357143,tvEpisode
+tt0759360,tt0369179,3,15,My Tongue Is Meat,2006,22,nm0357143,tvEpisode
+tt0766022,tt0369179,3,18,The Spit-Covered Cobbler,2006,22,nm0357143,tvEpisode
+tt0766147,tt0369179,1,2,Big Flappy Bastards,2003,22,nm0009953,tvEpisode
+tt0766148,tt0369179,3,16,"Ergo, the Booty Call",2006,22,nm0357143,tvEpisode
+tt0766149,tt0369179,2,4,Go Get Mommy's Bra,2004,22,nm0296945,tvEpisode
+tt0766150,tt0369179,2,6,The Price of Healthy Gums Is Eternal Vigilance,2004,22,nm0296945,tvEpisode
+tt0776262,tt0369179,3,17,The Unfortunate Little Schnauzer,2006,22,nm0357143,tvEpisode
+tt0784584,tt0369179,7,20,I Called Him Magoo,2010,22,nm0927042,tvEpisode
+tt0786266,tt0369179,3,19,"Golly Moses, She's a Muffin",2006,22,nm0357143,tvEpisode
+tt0793280,tt0369179,3,20,"Always a Bridesmaid, Never a Burro",2006,22,nm0357143,tvEpisode
+tt0793281,tt0369179,3,21,And the Plot Moistens,2006,22,nm0952360,tvEpisode
+tt0799383,tt0369179,3,22,Just Once with Aunt Sophie,2006,22,nm0036950,tvEpisode
+tt0805983,tt0369179,3,23,Arguments for the Quickie,2006,22,nm0927042,tvEpisode
+tt0818066,tt0369179,3,24,That Pistol-Packin' Hermaphrodite,2006,22,nm0927042,tvEpisode
+tt0854051,tt0369179,4,4,A Pot Smoking Monkey,2006,30,nm0357143,tvEpisode
+tt0858373,tt0369179,4,1,Working for Caligula,2006,22,nm0357143,tvEpisode
+tt0868906,tt0369179,4,2,Who's Vod Kanockers,2006,22,nm0357143,tvEpisode
+tt0870677,tt0369179,4,3,The Sea Is a Harsh Mistress,2006,22,nm0357143,tvEpisode
+tt0882651,tt0369179,4,5,A Live Woman of Proven Fertility,2006,22,nm0357143,tvEpisode
+tt0886285,tt0369179,4,6,Apologies for the Frivolity,2006,21,nm0357143,tvEpisode
+tt0889005,tt0369179,4,7,Repeated Blows to His Unformed Head,2006,22,nm0357143,tvEpisode
+tt0891939,tt0369179,4,8,Release the Dogs,2006,22,nm0357143,tvEpisode
+tt0898835,tt0369179,4,9,Corey's Been Dead for an Hour,2006,22,nm0357143,tvEpisode
+tt0908936,tt0369179,4,10,Kissing Abraham Lincoln,2006,22,nm0357143,tvEpisode
+tt0908937,tt0369179,4,11,Walnuts and Demerol,2006,22,nm0357143,tvEpisode
+tt0932463,tt0369179,4,12,Castrating Sheep in Montana,2007,22,nm0927042,tvEpisode
+tt0935979,tt0369179,4,15,My Damn Stalker,2007,22,nm0927042,tvEpisode
+tt0946827,tt0369179,4,13,"Don't Worry, Speed Racer",2007,22,nm0357143,tvEpisode
+tt0957426,tt0369179,4,14,"That's Summer Sausage, Not Salami",2007,22,nm0357143,tvEpisode
+tt0957599,tt0369179,4,17,I Merely Slept with a Commie,2007,22,nm0357143,tvEpisode
+tt0963690,tt0369179,4,16,Young People Have Phlegm Too,2007,22,nm0923396,tvEpisode
+tt0987821,tt0369179,4,18,It Never Rains in Hooterville,2007,22,nm0357143,tvEpisode
+tt1006262,tt0369179,4,19,Smooth as a Ken Doll,2007,21,nm0357143,tvEpisode
+tt1012332,tt0369179,4,20,Aunt Myra Doesn't Pee a Lot,2007,22,nm0952360,tvEpisode
+tt1017622,tt0369179,4,21,"Tucked, Taped and Gorgeous",2007,22,nm0952360,tvEpisode
+tt1022141,tt0369179,4,22,Mr. McGlue's Feedbag,2007,22,nm0001083,tvEpisode
+tt1026380,tt0369179,4,23,Anteaters. They're Just Crazy-lookin,2007,22,nm0036950,tvEpisode
+tt1026381,tt0369179,4,24,Prostitutes and Gelato,2007,21,nm0913637,tvEpisode
+tt1099789,tt0369179,5,2,Media Room Slash Dungeon,2007,22,nm0913637,tvEpisode
+tt1106487,tt0369179,5,1,"Large Birds, Spiders and Mom",2007,21,nm0913637,tvEpisode
+tt1120753,tt0369179,5,3,Dum Diddy Dum Diddy Doo,2007,22,nm0913637,tvEpisode
+tt1125249,tt0369179,5,4,City of Great Racks,2007,22,nm0927042,tvEpisode
+tt1127140,tt0369179,5,6,Help Daddy Find His Toenail,2007,22,nm0927042,tvEpisode
+tt1129289,tt0369179,5,5,Putting Swim Fins on a Cat,2007,22,nm0927042,tvEpisode
+tt1136575,tt0369179,5,8,Is There a Mrs. Waffles?,2007,20,nm0913637,tvEpisode
+tt1136576,tt0369179,5,7,Our Leather Gear Is in the Guest Room,2007,21,nm0913637,tvEpisode
+tt1142346,tt0369179,5,10,Kinda Like Necrophilia,2007,22,nm0913637,tvEpisode
+tt1143779,tt0369179,5,9,"Shoes, Hats, Pickle Jar Lids",2007,21,nm0755965,tvEpisode
+tt1203453,tt0369179,5,11,Meander to Your Dander,2008,22,nm0927042,tvEpisode
+tt1206873,tt0369179,5,14,Winky-Dink Time,2008,22,nm0927042,tvEpisode
+tt1206874,tt0369179,5,15,Rough Night in Hump Junction,2008,22,nm0927042,tvEpisode
+tt1206875,tt0369179,5,16,"Look at Me, Mommy, I'm Pretty",2008,22,nm0959034,tvEpisode
+tt1206876,tt0369179,5,17,Fish in a Drawer,2008,21,nm0578162,tvEpisode
+tt1206877,tt0369179,5,18,If My Hole Could Talk,2008,22,nm0001083,tvEpisode
+tt1206878,tt0369179,5,19,Waiting for the Right Snapper,2008,22,nm0578162,tvEpisode
+tt1206879,tt0369179,5,12,A Little Clammy and None Too Fresh,2008,22,nm0927042,tvEpisode
+tt1206880,tt0369179,5,13,The Soil is Moist,2008,20,nm0927042,tvEpisode
+tt1256401,tt0369179,6,10,"He Smelled the Ham, He Got Excited",2008,21,nm0578162,tvEpisode
+tt1256402,tt0369179,6,11,The Devil's Lube,2008,22,nm0578162,tvEpisode
+tt1256403,tt0369179,6,12,Thank God for Scoliosis,2009,21,nm0578162,tvEpisode
+tt1256404,tt0369179,6,13,I Think You Offended Don,2009,22,nm0578162,tvEpisode
+tt1256405,tt0369179,6,14,David Copperfield Slipped Me a Roofie,2009,30,nm0578162,tvEpisode
+tt1256406,tt0369179,6,15,I'd Like to Start with the Cat,2009,22,nm0578162,tvEpisode
+tt1256407,tt0369179,6,16,She'll Still Be Dead at Halftime,2009,21,nm0578162,tvEpisode
+tt1256408,tt0369179,6,17,The 'Ocu' or the 'Pado'?,2009,21,nm0927042,tvEpisode
+tt1256409,tt0369179,6,18,My Son's Enormous Head,2009,22,nm0927042,tvEpisode
+tt1256410,tt0369179,6,19,The Two Finger Rule,2009,21,nm0927042,tvEpisode
+tt1256411,tt0369179,6,2,"Pie Hole, Herb",2008,22,nm0927042,tvEpisode
+tt1256412,tt0369179,6,20,"Hello, I am Alan Cousteau",2009,22,nm0927042,tvEpisode
+tt1256413,tt0369179,6,21,Above Exalted Cyclops,2009,22,nm0927042,tvEpisode
+tt1256414,tt0369179,6,22,Sir Lancelot's Litter Box,2009,21,nm0001083,tvEpisode
+tt1256415,tt0369179,6,3,"Damn You, Eggs Benedict",2008,21,nm0755965,tvEpisode
+tt1256416,tt0369179,6,4,The Flavin' and the Mavin',2008,21,nm0927042,tvEpisode
+tt1256417,tt0369179,6,5,A Jock Strap in Hell,2008,22,nm0755965,tvEpisode
+tt1256418,tt0369179,6,6,It's Always Nazi Week,2008,22,nm0927042,tvEpisode
+tt1256419,tt0369179,6,7,Best H.O. Money Can Buy,2008,22,nm0927042,tvEpisode
+tt1256420,tt0369179,6,8,Pinocchio's Mouth,2008,22,nm0578162,tvEpisode
+tt1256421,tt0369179,6,9,The Mooch at the Boo,2008,22,nm0578162,tvEpisode
+tt1257508,tt0369179,6,1,Taterhead Is Our Love Child,2008,22,nm0927042,tvEpisode
+tt1427618,tt0369179,6,24,Baseball Was Better with Steroids,2009,22,nm0036950,tvEpisode
+tt1427619,tt0369179,6,23,"Good Morning, Mrs. Butterworth",2009,21,nm0731393,tvEpisode
+tt1474307,tt0369179,7,1,818-jklpuzo,2009,22,nm0927042,tvEpisode
+tt1510640,tt0369179,7,2,Whipped Unto the Third Generation,2009,21,nm0927042,tvEpisode
+tt1515694,tt0369179,7,3,"Mmm, Fish. Yum.",2009,20,nm0927042,tvEpisode
+tt1520804,tt0369179,7,4,"Laxative Tester, Horse Inseminator",2009,21,nm0927042,tvEpisode
+tt1529209,tt0369179,7,5,For the Sake of the Child,2009,22,nm0927042,tvEpisode
+tt1535923,tt0369179,7,6,Give Me Your Thumb,2009,21,nm0927042,tvEpisode
+tt1535924,tt0369179,7,7,Untainted by Filth,2009,22,nm0927042,tvEpisode
+tt1544842,tt0369179,7,9,Captain Terry's Spray-On Hair,2009,21,nm0927042,tvEpisode
+tt1544843,tt0369179,7,8,Gorp. Fnark. Schmegle.,2009,21,nm0927042,tvEpisode
+tt1558557,tt0369179,7,10,That's Why They Call It 'Ball Room',2009,20,nm0927042,tvEpisode
+tt1558558,tt0369179,7,11,"Warning, It's Dirty",2009,20,nm0927042,tvEpisode
+tt1570326,tt0369179,7,12,"Fart Jokes, Pie and Celeste",2010,22,nm0927042,tvEpisode
+tt1570327,tt0369179,7,13,"Yay, No Polyps",2010,21,nm0927042,tvEpisode
+tt1588700,tt0369179,7,15,"Aye, Aye, Captain Douche",2010,22,nm0927042,tvEpisode
+tt1588701,tt0369179,7,14,Crude and Uncalled For,2010,22,nm0927042,tvEpisode
+tt1601446,tt0369179,7,16,Tinkle Like a Princess,2010,22,nm0927042,tvEpisode
+tt1610252,tt0369179,7,17,I Found Your Moustache,2010,22,nm0927042,tvEpisode
+tt1614907,tt0369179,7,18,Ixnay on the Oggie Day,2010,22,nm0927042,tvEpisode
+tt1624858,tt0369179,7,19,Keith Moon Is Vomiting in His Grave,2010,19,nm0927042,tvEpisode
+tt1646007,tt0369179,7,21,Gumby with a Pokey,2010,22,nm0927042,tvEpisode
+tt1653634,tt0369179,7,22,This Is Not Gonna End Well,2010,21,nm0036950,tvEpisode
+tt1701939,tt0369179,8,1,Three Girls and a Guy Named Bud,2010,22,nm0927042,tvEpisode
+tt1727218,tt0369179,8,2,A Bottle of Wine and a Jackhammer,2010,22,nm0927042,tvEpisode
+tt1727219,tt0369179,8,3,A Pudding-Filled Cactus,2010,21,nm0927042,tvEpisode
+tt1736235,tt0369179,8,4,"Hookers, Hookers, Hookers",2010,22,nm0927042,tvEpisode
+tt1736236,tt0369179,8,5,The Immortal Mr. Billy Joel,2010,22,nm0927042,tvEpisode
+tt1746125,tt0369179,8,6,Twanging Your Magic Clanger,2010,22,nm0927042,tvEpisode
+tt1752991,tt0369179,8,7,The Crazy Bitch Gazette,2010,20,nm0927042,tvEpisode
+tt1757598,tt0369179,8,8,Springtime on a Stick,2010,22,nm0927042,tvEpisode
+tt1764062,tt0369179,8,9,A Good Time in Central Africa,2010,22,nm0927042,tvEpisode
+tt1770560,tt0369179,8,10,"Ow, Ow, Don't Stop",2010,30,nm0927042,tvEpisode
+tt1788320,tt0369179,8,12,Chocolate Diddlers or My Puppy's Dead,2010,21,nm0927042,tvEpisode
+tt1788321,tt0369179,8,11,Dead from the Waist Down,2010,22,nm0927042,tvEpisode
+tt1801472,tt0369179,8,13,"Skunk, Dog Crap and Ketchup",2011,21,nm0927042,tvEpisode
+tt1811259,tt0369179,8,14,Lookin' for Japanese Subs,2011,30,nm0927042,tvEpisode
+tt1811260,tt0369179,8,15,Three Hookers and a Philly Cheesesteak,2011,22,nm0927042,tvEpisode
+tt1811261,tt0369179,8,16,That Darn Priest,2011,30,nm0927042,tvEpisode
+tt1943576,tt0369179,9,1,"Nice to Meet You, Walden Schmidt",2011,30,nm0927042,tvEpisode
+tt1943577,tt0369179,9,10,A Fishbowl Full of Glass Eyes,2011,30,nm0927042,tvEpisode
+tt1943578,tt0369179,9,2,People Who Love Peepholes,2011,30,nm0927042,tvEpisode
+tt1943579,tt0369179,9,3,Big Girls Don't Throw Food,2011,30,nm0927042,tvEpisode
+tt1943580,tt0369179,9,4,Nine Magic Fingers,2011,30,nm0927042,tvEpisode
+tt1943581,tt0369179,9,5,A Giant Cat Holding a Churro,2011,30,nm0927042,tvEpisode
+tt1943582,tt0369179,9,6,The Squat and the Hover,2011,30,nm0927042,tvEpisode
+tt1943583,tt0369179,9,7,Those Fancy Japanese Toilets,2011,30,nm0927042,tvEpisode
+tt1943584,tt0369179,9,8,Thank You for the Intercourse,2011,30,nm0927042,tvEpisode
+tt1943585,tt0369179,9,9,Frodo's Headshots,2011,30,nm0927042,tvEpisode
+tt2118471,tt0369179,9,11,What a Lovely Landing Strip,2011,21,nm0927042,tvEpisode
+tt2133074,tt0369179,9,12,"One False Move, Zimbabwe!",2011,22,nm0927042,tvEpisode
+tt2148711,tt0369179,9,13,Slowly and in a Circular Fashion,2012,21,nm0927042,tvEpisode
+tt2172809,tt0369179,9,14,A Possum on Chemo,2012,21,nm0927042,tvEpisode
+tt2200885,tt0369179,9,15,The Duchess of Dull-in-Sack,2012,22,nm0927042,tvEpisode
+tt2214415,tt0369179,9,16,"Sips, Sonnets and Sodomy",2012,20,nm0927042,tvEpisode
+tt2244577,tt0369179,9,17,Not in My Mouth!,2012,20,nm0927042,tvEpisode
+tt2246461,tt0369179,9,18,The War Against Gingivitis,2012,22,nm0927042,tvEpisode
+tt2292299,tt0369179,9,19,"Palmdale, Ech",2012,22,nm0927042,tvEpisode
+tt2318211,tt0369179,9,22,Why We Gave Up Women,2012,22,nm0927042,tvEpisode
+tt2321013,tt0369179,9,20,Grandma's Pie,2012,22,nm0927042,tvEpisode
+tt2327119,tt0369179,9,23,The Straw in My Donut Hole,2012,22,nm0927042,tvEpisode
+tt2327121,tt0369179,9,24,Oh Look! Al-Qaeda!,2012,22,nm0927042,tvEpisode
+tt2361001,tt0369179,9,21,Mr. Hose Says 'Yes',2012,30,nm0927042,tvEpisode
+tt2401515,tt0369179,10,1,I Changed My Mind About the Milk,2012,22,nm0927042,tvEpisode
+tt2415988,tt0369179,10,4,You Do Know What the Lollipop Is For,2012,21,nm0927042,tvEpisode
+tt2439776,tt0369179,10,2,A Big Bag of Dog,2012,21,nm0927042,tvEpisode
+tt2439830,tt0369179,10,3,"Four Balls, Two Bats and One Mitt",2012,22,nm0927042,tvEpisode
+tt2452166,tt0369179,10,5,That's Not What They Call It in Amsterdam,2012,20,nm0927042,tvEpisode
+tt2452170,tt0369179,10,6,"Ferrets, Attack!",2012,21,nm0927042,tvEpisode
+tt2452174,tt0369179,10,7,Avoid the Chinese Mustard,2012,22,nm0927042,tvEpisode
+tt2452182,tt0369179,10,8,Something My Gynecologist Said,2012,22,nm0927042,tvEpisode
+tt2528624,tt0369179,10,9,I Scream When I Pee,2012,20,nm0927042,tvEpisode
+tt2545350,tt0369179,10,10,One Nut Johnson,2012,22,nm0927042,tvEpisode
+tt2545360,tt0369179,10,11,Give Santa a Tail-Hole,2012,22,nm0927042,tvEpisode
+tt2587444,tt0369179,10,12,Welcome to Alancrest,2013,22,nm0927042,tvEpisode
+tt2587450,tt0369179,10,13,Grab a Feather and Get in Line,2013,22,nm0927042,tvEpisode
+tt2625938,tt0369179,10,14,"Run, Steven Staven! Run!",2013,22,nm0927042,tvEpisode
+tt2690836,tt0369179,10,15,"Paint It, Pierce It or Plug It",2013,21,nm0927042,tvEpisode
+tt2710722,tt0369179,10,16,"Advantage: Fat, Flying Baby",2013,20,nm0927042,tvEpisode
+tt2710726,tt0369179,10,17,Throgwarten Middle School Mysteries,2013,22,nm0927042,tvEpisode
+tt2750608,tt0369179,10,18,The 9:04 from Pemberton,2013,22,nm0927042,tvEpisode
+tt2780620,tt0369179,10,19,Big Episode: Someone Stole a Spoon,2013,22,nm0927042,tvEpisode
+tt2780884,tt0369179,10,20,Bazinga! That's From a TV Show,2013,21,nm0927042,tvEpisode
+tt2874552,tt0369179,10,21,Another Night with Neil Diamond,2013,20,nm0927042,tvEpisode
+tt2886858,tt0369179,10,23,"Cows, Prepare to Be Tipped",2013,22,nm0927042,tvEpisode
+tt2890506,tt0369179,10,22,My Bodacious Vidalia,2013,21,nm0927042,tvEpisode
+tt2949222,tt0369179,11,1,Nangnangnangnang,2013,21,nm0927042,tvEpisode
+tt3198746,tt0369179,11,2,I Think I Banged Lucille Ball,2013,20,nm0927042,tvEpisode
+tt3221724,tt0369179,11,3,This Unblessed Biscuit,2013,21,nm0927042,tvEpisode
+tt3233256,tt0369179,11,4,"Clank, Clank, Drunken Skank",2013,22,nm0927042,tvEpisode
+tt3264442,tt0369179,11,5,"Alan Harper, Pleasing Women Since 2003",2013,20,nm0927042,tvEpisode
+tt3293104,tt0369179,11,6,Justice in Star-Spangled Hot Pants,2013,19,nm0927042,tvEpisode
+tt3293108,tt0369179,11,7,Some Kind of Lesbian Zombie,2013,22,nm0927042,tvEpisode
+tt3341266,tt0369179,11,8,"Mr. Walden, He Die. I Clean Room.",2013,21,nm0927042,tvEpisode
+tt3345452,tt0369179,11,9,Numero Uno Accidente Lawyer,2013,22,nm0927042,tvEpisode
+tt3345456,tt0369179,11,10,"On Vodka, on Soda, on Blender, on Mixer!",2013,22,nm0927042,tvEpisode
+tt3420154,tt0369179,11,11,Tazed in the Lady Nuts,2014,21,nm0927042,tvEpisode
+tt3457430,tt0369179,11,12,Baseball. Boobs. Boobs. Baseball.,2014,22,nm0927042,tvEpisode
+tt3472166,tt0369179,11,13,"Bite Me, Supreme Court",2014,22,nm0927042,tvEpisode
+tt3497604,tt0369179,11,14,Three Fingers of Crème de Menthe,2014,22,nm0927042,tvEpisode
+tt3509564,tt0369179,11,15,Cab Fare and a Bottle of Penicillin,2014,30,nm0927042,tvEpisode
+tt3549960,tt0369179,11,16,How to Get Rid of Alan Harper,2014,21,nm0927042,tvEpisode
+tt3549962,tt0369179,11,17,"Welcome Home, Jake",2014,20,nm0927042,tvEpisode
+tt3596118,tt0369179,12,1,The Ol' Mexican Spinach,2014,22,nm0927042,tvEpisode
+tt3596246,tt0369179,11,18,West Side Story,2014,20,nm0927042,tvEpisode
+tt3596250,tt0369179,11,19,Lan mao shi zai wuding shang,2014,21,nm0927042,tvEpisode
+tt3626646,tt0369179,11,20,Lotta Delis in Little Armenia,2014,22,nm0927042,tvEpisode
+tt3685312,tt0369179,11,21,Dial 1-900-Mix-A-Lot,2014,21,nm0927042,tvEpisode
+tt3685316,tt0369179,11,22,"Oh WALD-E, Good Times Ahead",2014,22,nm0927042,tvEpisode
+tt3861184,tt0369179,12,2,A Chic Bar in Ibiza,2014,21,nm0927042,tvEpisode
+tt4188770,tt0369179,12,3,Glamping in a Yurt,2014,21,nm0927042,tvEpisode
+tt4206566,tt0369179,12,4,"Thirty-Eight, Sixty-Two, Thirty-Eight",2014,21,nm0927042,tvEpisode
+tt4225680,tt0369179,12,5,Oontz. Oontz. Oontz.,2014,22,nm0927042,tvEpisode
+tt4244842,tt0369179,12,6,Alan Shot a Little Girl,2014,21,nm0001083,tvEpisode
+tt4265118,tt0369179,12,7,Sex with an Animated Ed Asner,2014,21,nm0927042,tvEpisode
+tt4281928,tt0369179,12,8,"Family, Bublé, Deep-Fried Turkey",2014,20,nm0927042,tvEpisode
+tt4299958,tt0369179,12,11,For Whom the Booty Calls,2015,21,nm0927042,tvEpisode
+tt4329382,tt0369179,12,9,"Bouncy, Bouncy, Bouncy, Lyndsey",2015,21,nm0927042,tvEpisode
+tt4351764,tt0369179,12,10,"Here I Come, Pants!",2015,21,nm0927042,tvEpisode
+tt4392294,tt0369179,12,12,A Beer-Battered Rip-Off,2015,22,nm0927042,tvEpisode
+tt4415432,tt0369179,12,13,Boompa Loved His Hookers,2015,20,nm0927042,tvEpisode
+tt4437664,tt0369179,12,14,Don't Give a Monkey a Gun,2015,20,nm0927042,tvEpisode
+tt4450100,tt0369179,12,15,Of Course He's Dead: Part 1 & 2,2015,38,nm0927042,tvEpisode
+tt0775431,tt0898266,1,1,Pilot,2007,23,nm0123273,tvEpisode
+tt1091289,tt0898266,1,2,The Big Bran Hypothesis,2007,21,nm0148252,tvEpisode
+tt1091290,tt0898266,1,3,The Fuzzy Boots Corollary,2007,22,nm0148252,tvEpisode
+tt1091291,tt0898266,1,4,The Luminous Fish Effect,2007,21,nm0148252,tvEpisode
+tt1091292,tt0898266,1,5,The Hamburger Postulate,2007,20,nm0923396,tvEpisode
+tt1091293,tt0898266,1,6,The Middle Earth Paradigm,2007,21,nm0148252,tvEpisode
+tt1127384,tt0898266,1,10,The Loobenfeld Decay,2008,21,nm0148252,tvEpisode
+tt1127385,tt0898266,1,11,The Pancake Batter Anomaly,2008,22,nm0148252,tvEpisode
+tt1127386,tt0898266,1,12,The Jerusalem Duality,2008,20,nm0148252,tvEpisode
+tt1127387,tt0898266,1,13,The Bat Jar Conjecture,2008,22,nm0148252,tvEpisode
+tt1127389,tt0898266,1,8,The Grasshopper Experiment,2007,21,nm0913637,tvEpisode
+tt1127390,tt0898266,1,9,The Cooper-Hofstadter Polarization,2008,20,nm0615063,tvEpisode
+tt1127905,tt0898266,1,14,The Nerdvana Annihilation,2008,20,nm0148252,tvEpisode
+tt1127906,tt0898266,1,15,The Pork Chop Indeterminacy,2008,22,nm0148252,tvEpisode
+tt1127907,tt0898266,1,16,The Peanut Reaction,2008,20,nm0148252,tvEpisode
+tt1127908,tt0898266,1,17,The Tangerine Factor,2008,20,nm0148252,tvEpisode
+tt1136041,tt0898266,1,7,The Dumpling Paradox,2007,21,nm0148252,tvEpisode
+tt1256020,tt0898266,2,10,The Vartabedian Conundrum,2008,21,nm0148252,tvEpisode
+tt1256021,tt0898266,2,11,The Bath Item Gift Hypothesis,2008,21,nm0148252,tvEpisode
+tt1256022,tt0898266,2,12,The Killer Robot Instability,2009,21,nm0148252,tvEpisode
+tt1256023,tt0898266,2,13,The Friendship Algorithm,2009,21,nm0148252,tvEpisode
+tt1256024,tt0898266,2,14,The Financial Permeability,2009,21,nm0148252,tvEpisode
+tt1256025,tt0898266,2,15,The Maternal Capacitance,2009,21,nm0148252,tvEpisode
+tt1256026,tt0898266,2,16,The Cushion Saturation,2009,21,nm0148252,tvEpisode
+tt1256027,tt0898266,2,17,The Terminator Decoupling,2009,21,nm0148252,tvEpisode
+tt1256028,tt0898266,2,18,The Work Song Nanocluster,2009,20,nm0149803,tvEpisode
+tt1256029,tt0898266,2,19,The Dead Hooker Juxtaposition,2009,21,nm0148252,tvEpisode
+tt1256030,tt0898266,2,2,The Codpiece Topology,2008,21,nm0148252,tvEpisode
+tt1256031,tt0898266,2,20,The Hofstadter Isotope,2009,20,nm0148252,tvEpisode
+tt1256032,tt0898266,2,21,The Vegas Renormalization,2009,21,nm0148252,tvEpisode
+tt1256033,tt0898266,2,22,The Classified Materials Turbulence,2009,19,nm0148252,tvEpisode
+tt1256034,tt0898266,2,3,The Barbarian Sublimation,2008,21,nm0148252,tvEpisode
+tt1256035,tt0898266,2,4,The Griffin Equivalency,2008,21,nm0148252,tvEpisode
+tt1256036,tt0898266,2,5,The Euclid Alternative,2008,20,nm0148252,tvEpisode
+tt1256037,tt0898266,2,6,The Cooper-Nowitzki Theorem,2008,21,nm0148252,tvEpisode
+tt1256038,tt0898266,2,7,The Panty Piñata Polarization,2008,21,nm0148252,tvEpisode
+tt1256039,tt0898266,2,8,The Lizard-Spock Expansion,2008,20,nm0148252,tvEpisode
+tt1256040,tt0898266,2,9,The White Asparagus Triangulation,2008,21,nm0148252,tvEpisode
+tt1256599,tt0898266,2,1,The Bad Fish Paradigm,2008,22,nm0148252,tvEpisode
+tt1426233,tt0898266,2,23,The Monopolar Expedition,2009,21,nm0148252,tvEpisode
+tt1487706,tt0898266,3,1,The Electric Can Opener Fluctuation,2009,21,nm0148252,tvEpisode
+tt1494210,tt0898266,3,3,The Gothowitz Deviation,2009,20,nm0148252,tvEpisode
+tt1495238,tt0898266,3,2,The Jiminy Conjecture,2009,21,nm0148252,tvEpisode
+tt1523180,tt0898266,3,6,The Cornhusker Vortex,2009,20,nm0148252,tvEpisode
+tt1523181,tt0898266,3,4,The Pirate Solution,2009,20,nm0148252,tvEpisode
+tt1528188,tt0898266,3,5,The Creepy Candy Coating Corollary,2009,20,nm0148252,tvEpisode
+tt1535334,tt0898266,3,7,The Guitarist Amplification,2009,20,nm0148252,tvEpisode
+tt1536922,tt0898266,3,8,The Adhesive Duck Deficiency,2009,21,nm0148252,tvEpisode
+tt1544819,tt0898266,3,9,The Vengeance Formulation,2009,19,nm0148252,tvEpisode
+tt1558529,tt0898266,3,10,The Gorilla Experiment,2009,21,nm0148252,tvEpisode
+tt1558530,tt0898266,3,11,The Maternal Congruence,2009,20,nm0148252,tvEpisode
+tt1567073,tt0898266,3,12,The Psychic Vortex,2010,20,nm0148252,tvEpisode
+tt1570312,tt0898266,3,13,The Bozeman Reaction,2010,20,nm0148252,tvEpisode
+tt1588684,tt0898266,3,14,The Einstein Approximation,2010,20,nm0148252,tvEpisode
+tt1589887,tt0898266,3,15,The Large Hadron Collision,2010,21,nm0148252,tvEpisode
+tt1592080,tt0898266,3,16,The Excelsior Acquisition,2010,21,nm0149803,tvEpisode
+tt1607974,tt0898266,3,17,The Precious Fragmentation,2010,20,nm0148252,tvEpisode
+tt1609410,tt0898266,3,19,The Wheaton Recurrence,2010,21,nm0148252,tvEpisode
+tt1609715,tt0898266,3,18,The Pants Alternative,2010,21,nm0148252,tvEpisode
+tt1627740,tt0898266,3,23,The Lunar Excitation,2010,20,nm0149803,tvEpisode
+tt1628617,tt0898266,3,20,The Spaghetti Catalyst,2010,20,nm0723597,tvEpisode
+tt1632224,tt0898266,4,1,The Robotic Manipulation,2010,21,nm0148252,tvEpisode
+tt1632225,tt0898266,4,10,The Alien Parasite Hypothesis,2010,20,nm0148252,tvEpisode
+tt1632226,tt0898266,4,11,The Justice League Recombination,2010,20,nm0148252,tvEpisode
+tt1632227,tt0898266,4,12,The Bus Pants Utilization,2011,21,nm0148252,tvEpisode
+tt1632228,tt0898266,4,13,The Love Car Displacement,2011,21,nm0723597,tvEpisode
+tt1632229,tt0898266,4,14,The Thespian Catalyst,2011,21,nm0148252,tvEpisode
+tt1632230,tt0898266,4,15,The Benefactor Factor,2011,20,nm0148252,tvEpisode
+tt1632231,tt0898266,4,16,The Cohabitation Formulation,2011,21,nm0148252,tvEpisode
+tt1632232,tt0898266,4,17,The Toast Derivation,2011,22,nm0148252,tvEpisode
+tt1632233,tt0898266,4,18,The Prestidigitation Approximation,2011,21,nm0148252,tvEpisode
+tt1632234,tt0898266,4,19,The Zarnecki Incursion,2011,23,nm0149803,tvEpisode
+tt1632235,tt0898266,4,2,The Cruciferous Vegetable Amplification,2010,21,nm0148252,tvEpisode
+tt1632236,tt0898266,4,20,The Herb Garden Germination,2011,21,nm0148252,tvEpisode
+tt1632237,tt0898266,4,21,The Agreement Dissection,2011,21,nm0148252,tvEpisode
+tt1632238,tt0898266,4,22,The Wildebeest Implementation,2011,21,nm0148252,tvEpisode
+tt1632239,tt0898266,4,23,The Engagement Reaction,2011,20,nm0614975,tvEpisode
+tt1632240,tt0898266,4,3,The Zazzy Substitution,2010,21,nm0148252,tvEpisode
+tt1632241,tt0898266,4,4,The Hot Troll Deviation,2010,20,nm0148252,tvEpisode
+tt1632242,tt0898266,4,5,The Desperation Emanation,2010,21,nm0148252,tvEpisode
+tt1632243,tt0898266,4,6,The Irish Pub Formulation,2010,25,nm0148252,tvEpisode
+tt1632244,tt0898266,4,7,The Apology Insufficiency,2010,21,nm0148252,tvEpisode
+tt1632245,tt0898266,4,8,The 21-Second Excitation,2010,19,nm0148252,tvEpisode
+tt1632246,tt0898266,4,9,The Boyfriend Complexity,2010,21,nm0148252,tvEpisode
+tt1648755,tt0898266,3,21,The Plimpton Stimulation,2010,21,nm0148252,tvEpisode
+tt1648756,tt0898266,3,22,The Staircase Implementation,2010,20,nm0148252,tvEpisode
+tt1918407,tt0898266,4,24,The Roommate Transmogrification,2011,22,nm0148252,tvEpisode
+tt1980710,tt0898266,5,1,The Skank Reflex Analysis,2011,22,nm0148252,tvEpisode
+tt2033019,tt0898266,5,2,The Infestation Hypothesis,2011,20,nm0148252,tvEpisode
+tt2057241,tt0898266,5,3,The Pulled Groin Extrapolation,2011,20,nm0148252,tvEpisode
+tt2058495,tt0898266,5,4,The Wiggly Finger Catalyst,2011,20,nm0148252,tvEpisode
+tt2063481,tt0898266,5,5,The Russian Rocket Reaction,2011,22,nm0148252,tvEpisode
+tt2079337,tt0898266,5,6,The Rhinitis Revelation,2011,22,nm0614975,tvEpisode
+tt2082016,tt0898266,5,7,The Good Guy Fluctuation,2011,20,nm0148252,tvEpisode
+tt2092310,tt0898266,5,8,The Isolation Permutation,2011,21,nm0148252,tvEpisode
+tt2100287,tt0898266,5,9,The Ornithophobia Diffusion,2011,21,nm0148252,tvEpisode
+tt2105978,tt0898266,5,10,The Flaming Spittoon Acquisition,2011,21,nm0148252,tvEpisode
+tt2119890,tt0898266,5,11,The Speckerman Recurrence,2011,20,nm0723597,tvEpisode
+tt2136314,tt0898266,5,12,The Shiny Trinket Maneuver,2012,21,nm0148252,tvEpisode
+tt2139151,tt0898266,5,13,The Recombination Hypothesis,2012,21,nm0148252,tvEpisode
+tt2176186,tt0898266,1,0,Unaired Pilot,2006,23,nm0123273,tvEpisode
+tt2181587,tt0898266,5,14,The Beta Test Initiation,2012,21,nm0148252,tvEpisode
+tt2192687,tt0898266,5,15,The Friendship Contraction,2012,21,nm0148252,tvEpisode
+tt2194640,tt0898266,6,1,The Date Night Variable,2012,21,nm0148252,tvEpisode
+tt2209665,tt0898266,5,16,The Vacation Solution,2012,22,nm0148252,tvEpisode
+tt2220955,tt0898266,5,17,The Rothman Disintegration,2012,21,nm0148252,tvEpisode
+tt2238153,tt0898266,5,18,The Werewolf Transformation,2012,21,nm0148252,tvEpisode
+tt2275201,tt0898266,5,20,The Transporter Malfunction,2012,21,nm0148252,tvEpisode
+tt2275203,tt0898266,5,19,The Weekend Vortex,2012,20,nm0148252,tvEpisode
+tt2300453,tt0898266,5,21,The Hawking Excitation,2012,19,nm0148252,tvEpisode
+tt2332311,tt0898266,5,22,The Stag Convergence,2012,21,nm0149803,tvEpisode
+tt2372043,tt0898266,5,23,The Launch Acceleration,2012,21,nm0148252,tvEpisode
+tt2378184,tt0898266,6,3,The Higgs Boson Observation,2012,19,nm0148252,tvEpisode
+tt2379487,tt0898266,5,24,The Countdown Reflection,2012,21,nm0148252,tvEpisode
+tt2392630,tt0898266,6,2,The Decoupling Fluctuation,2012,22,nm0148252,tvEpisode
+tt2411550,tt0898266,6,4,The Re-Entry Minimization,2012,21,nm0148252,tvEpisode
+tt2411582,tt0898266,6,5,The Holographic Excitation,2012,21,nm0148252,tvEpisode
+tt2450064,tt0898266,6,6,The Extract Obliteration,2012,21,nm0148252,tvEpisode
+tt2462410,tt0898266,6,7,The Habitation Configuration,2012,21,nm0148252,tvEpisode
+tt2502436,tt0898266,6,8,The 43 Peculiarity,2012,21,nm0148252,tvEpisode
+tt2505340,tt0898266,6,9,The Parking Spot Escalation,2012,20,nm0149803,tvEpisode
+tt2523744,tt0898266,6,10,The Fish Guts Displacement,2012,22,nm0148252,tvEpisode
+tt2559784,tt0898266,6,11,The Santa Simulation,2012,21,nm0148252,tvEpisode
+tt2571320,tt0898266,6,12,The Egg Salad Equivalency,2013,21,nm0148252,tvEpisode
+tt2582488,tt0898266,6,13,The Bakersfield Expedition,2013,21,nm0148252,tvEpisode
+tt2633894,tt0898266,6,15,The Spoiler Alert Segmentation,2013,21,nm0148252,tvEpisode
+tt2636834,tt0898266,6,14,The Cooper/Kripke Inversion,2013,20,nm0148252,tvEpisode
+tt2668846,tt0898266,6,16,The Tangible Affection Proof,2013,21,nm0148252,tvEpisode
+tt2697398,tt0898266,6,17,The Monster Isolation,2013,20,nm0148252,tvEpisode
+tt2708314,tt0898266,6,18,The Contractual Obligation Implementation,2013,20,nm0148252,tvEpisode
+tt2739286,tt0898266,6,19,The Closet Reconfiguration,2013,20,nm0723597,tvEpisode
+tt2784494,tt0898266,6,20,The Tenure Turbulence,2013,20,nm0148252,tvEpisode
+tt2833352,tt0898266,6,22,The Proton Resurgence,2013,21,nm0148252,tvEpisode
+tt2833366,tt0898266,6,21,The Closure Alternative,2013,20,nm0148252,tvEpisode
+tt2852720,tt0898266,6,23,The Love Spell Potential,2013,21,nm0723597,tvEpisode
+tt2891288,tt0898266,6,24,The Bon Voyage Reaction,2013,20,nm0148252,tvEpisode
+tt2933998,tt0898266,7,2,The Deception Verification,2013,21,nm0148252,tvEpisode
+tt3111660,tt0898266,7,1,The Hofstadter Insufficiency,2013,21,nm0148252,tvEpisode
+tt3218670,tt0898266,7,3,The Scavenger Vortex,2013,21,nm0148252,tvEpisode
+tt3221722,tt0898266,7,4,The Raiders Minimization,2013,21,nm0148252,tvEpisode
+tt3229392,tt0898266,7,5,The Workplace Proximity,2013,19,nm0148252,tvEpisode
+tt3229394,tt0898266,7,6,The Romance Resonance,2013,21,nm0148252,tvEpisode
+tt3229396,tt0898266,7,7,The Proton Displacement,2013,20,nm0148252,tvEpisode
+tt3303726,tt0898266,7,8,The Itchy Brain Simulation,2013,21,nm0148252,tvEpisode
+tt3309570,tt0898266,7,9,The Thanksgiving Decoupling,2013,20,nm0148252,tvEpisode
+tt3337724,tt0898266,7,11,The Cooper Extraction,2013,21,nm0148252,tvEpisode
+tt3337728,tt0898266,7,12,The Hesitation Ramification,2014,21,nm0148252,tvEpisode
+tt3337730,tt0898266,7,13,The Occupation Recalibration,2014,21,nm0148252,tvEpisode
+tt3338358,tt0898266,7,10,The Discovery Dissipation,2013,20,nm0148252,tvEpisode
+tt3453320,tt0898266,7,14,The Convention Conundrum,2014,21,nm0148252,tvEpisode
+tt3477310,tt0898266,7,15,The Locomotive Manipulation,2014,20,nm0148252,tvEpisode
+tt3507240,tt0898266,7,16,The Table Polarization,2014,20,nm1464599,tvEpisode
+tt3517894,tt0898266,7,18,The Mommy Observation,2014,21,nm0148252,tvEpisode
+tt3521962,tt0898266,7,17,The Friendship Turbulence,2014,20,nm0148252,tvEpisode
+tt3521964,tt0898266,7,19,The Indecision Amalgamation,2014,19,nm0723597,tvEpisode
+tt3554854,tt0898266,7,20,The Relationship Diremption,2014,21,nm0148252,tvEpisode
+tt3572170,tt0898266,7,21,The Anything Can Happen Recurrence,2014,19,nm0148252,tvEpisode
+tt3572176,tt0898266,7,22,The Proton Transmogrification,2014,21,nm0148252,tvEpisode
+tt3572182,tt0898266,7,23,The Gorilla Dissolution,2014,19,nm0149803,tvEpisode
+tt3572184,tt0898266,7,24,The Status Quo Combustion,2014,21,nm0148252,tvEpisode
+tt3596130,tt0898266,8,1,The Locomotion Interruption,2014,21,nm0148252,tvEpisode
+tt3603346,tt0898266,9,1,The Matrimonial Momentum,2015,20,nm0148252,tvEpisode
+tt3603372,tt0898266,10,1,The Conjugal Conjecture,2016,21,nm0148252,tvEpisode
+tt3807172,tt0898266,8,2,The Junior Professor Solution,2014,20,nm0148252,tvEpisode
+tt3811812,tt0898266,8,3,The First Pitch Insufficiency,2014,19,nm0148252,tvEpisode
+tt3811814,tt0898266,8,4,The Hook-up Reverberation,2014,19,nm0148252,tvEpisode
+tt3811816,tt0898266,8,5,The Focus Attenuation,2014,19,nm0148252,tvEpisode
+tt3823240,tt0898266,8,6,The Expedition Approximation,2014,21,nm0148252,tvEpisode
+tt3823242,tt0898266,8,8,The Prom Equivalency,2014,20,nm0148252,tvEpisode
+tt3823244,tt0898266,8,7,The Misinterpretation Agitation,2014,20,nm0148252,tvEpisode
+tt3823248,tt0898266,8,9,The Septum Deviation,2014,20,nm0723597,tvEpisode
+tt3823250,tt0898266,8,10,The Champagne Reflection,2014,19,nm0148252,tvEpisode
+tt3823252,tt0898266,8,11,The Clean Room Infiltration,2014,19,nm0148252,tvEpisode
+tt3823254,tt0898266,8,12,The Space Probe Disintegration,2015,20,nm0148252,tvEpisode
+tt3862708,tt0898266,8,13,The Anxiety Optimization,2015,20,nm0148252,tvEpisode
+tt3862710,tt0898266,8,15,The Comic Book Store Regeneration,2015,20,nm0148252,tvEpisode
+tt3862712,tt0898266,8,14,The Troll Manifestation,2015,21,nm0148252,tvEpisode
+tt3862714,tt0898266,8,16,The Intimacy Acceleration,2015,20,nm0148252,tvEpisode
+tt3862720,tt0898266,8,17,The Colonization Application,2015,20,nm0148252,tvEpisode
+tt3862722,tt0898266,8,18,The Leftover Thermalization,2015,19,nm0148252,tvEpisode
+tt3862724,tt0898266,8,19,The Skywalker Incursion,2015,21,nm0148252,tvEpisode
+tt3862726,tt0898266,8,20,The Fortification Implementation,2015,20,nm0148252,tvEpisode
+tt3862728,tt0898266,8,21,The Communication Deterioration,2015,19,nm0148252,tvEpisode
+tt3862732,tt0898266,8,22,The Graduation Transmission,2015,19,nm0723597,tvEpisode
+tt3862734,tt0898266,8,23,The Maternal Combustion,2015,19,nm0723597,tvEpisode
+tt3862738,tt0898266,8,24,The Commitment Determination,2015,20,nm0148252,tvEpisode
+tt4938690,tt0898266,9,2,The Separation Oscillation,2015,19,nm0148252,tvEpisode
+tt4962326,tt0898266,9,3,The Bachelor Party Corrosion,2015,20,nm0148252,tvEpisode
+tt4995126,tt0898266,9,4,The 2003 Approximation,2015,19,nm0148252,tvEpisode
+tt5027380,tt0898266,9,5,The Perspiration Implementation,2015,19,nm0148252,tvEpisode
+tt5073156,tt0898266,9,7,The Spock Resonance,2015,19,nm3154374,tvEpisode
+tt5090816,tt0898266,9,6,The Helium Insufficiency,2015,19,nm0148252,tvEpisode
+tt5117928,tt0898266,9,8,The Mystery Date Observation,2015,19,nm0148252,tvEpisode
+tt5143500,tt0898266,9,9,The Platonic Permutation,2015,21,nm0148252,tvEpisode
+tt5143508,tt0898266,9,10,The Earworm Reverberation,2015,21,nm0148252,tvEpisode
+tt5143516,tt0898266,9,11,The Opening Night Excitation,2015,21,nm0148252,tvEpisode
+tt5273740,tt0898266,9,13,The Empathy Optimization,2016,19,nm0148252,tvEpisode
+tt5273742,tt0898266,9,12,The Sales Call Sublimation,2016,18,nm0148252,tvEpisode
+tt5295650,tt0898266,9,14,The Meemaw Materialization,2016,19,nm0148252,tvEpisode
+tt5341496,tt0898266,9,15,The Valentino Submergence,2016,19,nm0148252,tvEpisode
+tt5376678,tt0898266,9,16,The Positive Negative Reaction,2016,19,nm0148252,tvEpisode
+tt5436356,tt0898266,9,17,The Celebration Experimentation,2016,19,nm0148252,tvEpisode
+tt5497250,tt0898266,9,18,The Application Deterioration,2016,19,nm0148252,tvEpisode
+tt5522908,tt0898266,9,19,The Solder Excursion Diversion,2016,20,nm0148252,tvEpisode
+tt5562854,tt0898266,9,24,The Convergence Convergence,2016,20,nm0148252,tvEpisode
+tt5586046,tt0898266,9,20,The Big Bear Precipitation,2016,19,nm0148252,tvEpisode
+tt5586050,tt0898266,9,21,The Viewing Party Combustion,2016,18,nm0148252,tvEpisode
+tt5597958,tt0898266,9,22,The Fermentation Bifurcation,2016,20,nm3154374,tvEpisode
+tt5597960,tt0898266,9,23,The Line Substitution Solution,2016,18,nm0723597,tvEpisode
+tt5825290,tt0898266,10,6,The Fetal Kick Catalyst,2016,18,nm0148252,tvEpisode
+tt5973910,tt0898266,10,2,The Military Miniaturization,2016,19,nm0148252,tvEpisode
+tt5996928,tt0898266,10,3,The Dependence Transcendence,2016,20,nm0148252,tvEpisode
+tt6062772,tt0898266,10,4,The Cohabitation Experimentation,2016,20,nm0148252,tvEpisode
+tt6077690,tt0898266,10,5,The Hot Tub Contamination,2016,20,nm0148252,tvEpisode
+tt6186420,tt0898266,10,7,The Veracity Elasticity,2016,21,nm0148252,tvEpisode
+tt6189462,tt0898266,10,8,The Brain Bowl Incubation,2016,18,nm0148252,tvEpisode
+tt6214960,tt0898266,10,9,The Geology Elevation,2016,19,nm0148252,tvEpisode
+tt6255718,tt0898266,10,10,The Property Division Collision,2016,19,nm0148252,tvEpisode
+tt6255770,tt0898266,10,11,The Birthday Synchronicity,2016,20,nm3154374,tvEpisode
+tt6320950,tt0898266,10,12,The Holiday Summation,2017,21,nm0148252,tvEpisode
+tt6337212,tt0898266,10,13,The Romance Recalibration,2017,19,nm0148252,tvEpisode
+tt6414316,tt0898266,10,14,The Emotion Detection Automation,2017,19,nm0148252,tvEpisode
+tt6438684,tt0898266,10,15,The Locomotion Reverberation,2017,20,nm0148252,tvEpisode
+tt6495864,tt0898266,10,16,The Allowance Evaporation,2017,18,nm0148252,tvEpisode
+tt6527026,tt0898266,10,17,The Comic-Con Conundrum,2017,19,nm0148252,tvEpisode
+tt6565510,tt0898266,10,18,The Escape Hatch Identification,2017,20,nm0148252,tvEpisode
+tt6565514,tt0898266,10,19,The Collaboration Fluctuation,2017,18,nm0148252,tvEpisode
+tt6565516,tt0898266,10,20,The Recollection Dissipation,2017,19,nm0148252,tvEpisode
+tt6565524,tt0898266,10,21,The Separation Agitation,2017,20,nm0148252,tvEpisode
+tt6565530,tt0898266,10,22,The Cognition Regeneration,2017,20,nm0148252,tvEpisode
+tt6673774,tt0898266,11,1,The Proposal Proposal,2017,21,nm0148252,tvEpisode
+tt6673778,tt0898266,12,1,The Conjugal Configuration,2018,20,nm0148252,tvEpisode
+tt6674424,tt0898266,11,23,The Sibling Realignment,2018,20,nm0148252,tvEpisode
+tt6674428,tt0898266,11,22,The Monetary Insufficiency,2018,19,nm3154374,tvEpisode
+tt6674430,tt0898266,11,24,The Bow Tie Asymmetry,2018,22,nm0148252,tvEpisode
+tt6674432,tt0898266,11,21,The Comet Polarization,2018,21,nm0148252,tvEpisode
+tt6674434,tt0898266,11,20,The Reclusive Potential,2018,21,nm0148252,tvEpisode
+tt6674448,tt0898266,11,16,The Neonatal Nomenclature,2018,19,nm1464599,tvEpisode
+tt6674452,tt0898266,11,17,The Athenaeum Allocation,2018,20,nm0148252,tvEpisode
+tt6674454,tt0898266,11,19,The Tenant Disassociation,2018,21,nm0148252,tvEpisode
+tt6674456,tt0898266,11,18,The Gates Excitation,2018,20,nm0148252,tvEpisode
+tt6674462,tt0898266,11,15,The Novelization Correlation,2018,21,nm0148252,tvEpisode
+tt6674466,tt0898266,11,14,The Separation Triangulation,2018,19,nm0148252,tvEpisode
+tt6674468,tt0898266,11,13,The Solo Oscillation,2018,21,nm0148252,tvEpisode
+tt6674472,tt0898266,11,12,The Matrimonial Metric,2018,20,nm0148252,tvEpisode
+tt6674476,tt0898266,11,11,The Celebration Reverberation,2017,19,nm0148252,tvEpisode
+tt6674480,tt0898266,11,10,The Confidence Erosion,2017,21,nm0148252,tvEpisode
+tt6674486,tt0898266,11,9,The Bitcoin Entanglement,2017,19,nm0148252,tvEpisode
+tt6674490,tt0898266,11,8,The Tesla Recoil,2017,19,nm0723597,tvEpisode
+tt6674492,tt0898266,11,7,The Geology Methodology,2017,19,nm0148252,tvEpisode
+tt6674494,tt0898266,11,6,The Proton Regeneration,2017,21,nm0148252,tvEpisode
+tt6674496,tt0898266,11,5,The Collaboration Contamination,2017,19,nm3154374,tvEpisode
+tt6674498,tt0898266,11,4,The Explosion Implosion,2017,21,nm0148252,tvEpisode
+tt6674504,tt0898266,11,3,The Relaxation Integration,2017,20,nm0148252,tvEpisode
+tt6674506,tt0898266,11,2,The Retraction Reaction,2017,21,nm0148252,tvEpisode
+tt6674688,tt0898266,12,2,The Wedding Gift Wormhole,2018,21,nm0148252,tvEpisode
+tt6674690,tt0898266,12,4,The Tam Turbulence,2018,19,nm0148252,tvEpisode
+tt6674692,tt0898266,12,3,The Procreation Calculation,2018,20,nm0148252,tvEpisode
+tt6674694,tt0898266,12,5,The Planetarium Collision,2018,19,nm0148252,tvEpisode
+tt6674696,tt0898266,12,7,The Grant Allocation Derivation,2018,19,nm0148252,tvEpisode
+tt6674698,tt0898266,12,9,The Citation Negation,2018,20,nm0943349,tvEpisode
+tt6674702,tt0898266,12,8,The Consummation Deviation,2018,22,nm0148252,tvEpisode
+tt6674704,tt0898266,12,6,The Imitation Perturbation,2018,19,nm0148252,tvEpisode
+tt6674706,tt0898266,12,11,The Paintball Scattering,2019,19,nm0148252,tvEpisode
+tt6674708,tt0898266,12,12,The Propagation Proposition,2019,20,nm0148252,tvEpisode
+tt6674710,tt0898266,12,10,The VCR Illumination,2018,20,nm0148252,tvEpisode
+tt6674712,tt0898266,12,14,The Meteorite Manifestation,2019,19,nm0148252,tvEpisode
+tt6674714,tt0898266,12,13,The Confirmation Polarization,2019,20,nm0148252,tvEpisode
+tt6674716,tt0898266,12,15,The Donation Oscillation,2019,21,nm0148252,tvEpisode
+tt6674718,tt0898266,12,16,The D & D Vortex,2019,20,nm0148252,tvEpisode
+tt6674720,tt0898266,12,19,The Inspiration Deprivation,2019,20,nm0148252,tvEpisode
+tt6674724,tt0898266,12,18,The Laureate Accumulation,2019,21,nm0148252,tvEpisode
+tt6674726,tt0898266,12,17,The Conference Valuation,2019,19,nm0148252,tvEpisode
+tt6674728,tt0898266,12,20,The Decision Reverberation,2019,19,nm0148252,tvEpisode
+tt6674730,tt0898266,12,22,The Maternal Conclusion,2019,20,nm0943349,tvEpisode
+tt6674732,tt0898266,12,21,The Plagiarism Schism,2019,19,nm3154374,tvEpisode
+tt6674734,tt0898266,12,23,The Change Constant,2019,19,nm0148252,tvEpisode
+tt6674736,tt0898266,12,24,The Stockholm Syndrome,2019,23,nm0148252,tvEpisode
+tt6706250,tt0898266,10,23,The Gyroscopic Collapse,2017,19,nm0723597,tvEpisode
+tt6706254,tt0898266,10,24,The Long Distance Dissonance,2017,19,nm0148252,tvEpisode
+tt3818888,tt2431438,1,1,Limbic Resonance,2015,67,nm0905154,tvEpisode
+tt3818892,tt2431438,1,10,What Is Human?,2015,54,nm0905152,tvEpisode
+tt3833452,tt2431438,1,2,I Am Also A We,2015,54,nm0905152,tvEpisode
+tt3852470,tt2431438,1,7,WWN Double-D?,2015,56,nm0574625,tvEpisode
+tt3887882,tt2431438,1,11,Just Turn the Wheel and the Future Changes,2015,48,nm0878756,tvEpisode
+tt3887888,tt2431438,1,12,I Can't Leave Her,2015,54,nm0905154,tvEpisode
+tt3887950,tt2431438,1,4,What's Going On?,2015,55,nm0878756,tvEpisode
+tt3887958,tt2431438,1,5,Art Is Like Religion,2015,52,nm0574625,tvEpisode
+tt3963482,tt2431438,1,3,Smart Money's on the Skinny Bitch,2015,48,nm0905152,tvEpisode
+tt3963484,tt2431438,1,6,Demons,2015,52,nm0905154,tvEpisode
+tt3963678,tt2431438,1,8,We Will All Be Judged by the Courage of Our Hearts,2015,50,nm0321922,tvEpisode
+tt3963682,tt2431438,1,9,Death Doesn't Let You Say Goodbye,2015,52,nm0905152,tvEpisode
+tt5031232,tt2431438,2,1,Happy F*cking New Year.,2016,124,nm0905154,tvEpisode
+tt5362622,tt2431438,2,2,Who Am I?,2017,55,nm0905154,tvEpisode
+tt5362626,tt2431438,2,3,Obligate Mutualisms,2017,51,nm0905154,tvEpisode
+tt5362884,tt2431438,2,4,Polyphony,2017,58,nm0574625,tvEpisode
+tt5362906,tt2431438,2,5,Fear Never Fixed Anything,2017,51,nm0574625,tvEpisode
+tt5365786,tt2431438,2,6,"Isolated Above, Connected Below",2017,67,nm0905154,tvEpisode
+tt5365788,tt2431438,2,7,I Have No Room in My Heart for Hate,2017,61,nm0574625,tvEpisode
+tt5365792,tt2431438,2,8,All I Want Right Now Is One More Bullet,2017,56,nm0321922,tvEpisode
+tt5365796,tt2431438,2,10,"If All the World's a Stage, Identity Is Nothing But a Costume",2017,52,nm0878756,tvEpisode
+tt5365798,tt2431438,2,9,What Family Actually Means,2017,57,nm0905154,tvEpisode
+tt6858802,tt2431438,2,11,You Want a War?,2017,57,nm0905154,tvEpisode
+tt7083044,tt2431438,2,12,Amor Vincit Omnia,2018,152,nm0905154,tvEpisode
+tt0606103,tt0460649,1,18,Nothing Good Happens After 2 AM,2006,22,nm0296945,tvEpisode
+tt0606104,tt0460649,1,9,Belly Full of Turkey,2005,22,nm0296945,tvEpisode
+tt0606105,tt0460649,1,16,Cupcake,2006,22,nm0296945,tvEpisode
+tt0606106,tt0460649,1,13,"Drumroll, Please",2006,23,nm0296945,tvEpisode
+tt0606107,tt0460649,1,15,Game Night,2006,23,nm0296945,tvEpisode
+tt0606108,tt0460649,1,7,Matchmaker,2005,23,nm0296945,tvEpisode
+tt0606109,tt0460649,1,5,Okay Awesome,2005,22,nm0296945,tvEpisode
+tt0606110,tt0460649,1,1,Pilot,2005,22,nm0296945,tvEpisode
+tt0606111,tt0460649,1,2,Purple Giraffe,2005,22,nm0296945,tvEpisode
+tt0606112,tt0460649,1,4,Return of the Shirt,2005,22,nm0296945,tvEpisode
+tt0606113,tt0460649,1,8,The Duel,2005,22,nm0296945,tvEpisode
+tt0606114,tt0460649,1,11,The Limo,2005,23,nm0296945,tvEpisode
+tt0606115,tt0460649,1,10,The Pineapple Incident,2005,23,nm0296945,tvEpisode
+tt0606116,tt0460649,1,6,The Slutty Pumpkin,2005,23,nm0296945,tvEpisode
+tt0606117,tt0460649,1,3,The Sweet Taste of Liberty,2005,22,nm0296945,tvEpisode
+tt0606118,tt0460649,1,12,The Wedding,2006,23,nm0296945,tvEpisode
+tt0606119,tt0460649,1,14,"Zip, Zip, Zip",2006,23,nm0296945,tvEpisode
+tt0756504,tt0460649,1,17,Life Among the Gorillas,2006,23,nm0296945,tvEpisode
+tt0760776,tt0460649,1,20,Best Prom Ever,2006,22,nm0296945,tvEpisode
+tt0774239,tt0460649,1,22,Come On,2006,23,nm0296945,tvEpisode
+tt0788623,tt0460649,1,19,Mary the Paralegal,2006,23,nm0296945,tvEpisode
+tt0801608,tt0460649,1,21,Milk,2006,23,nm0296945,tvEpisode
+tt0858000,tt0460649,2,4,"Ted Mosby, Architect",2006,22,nm0296945,tvEpisode
+tt0863640,tt0460649,2,1,Where Were We?,2006,22,nm0296945,tvEpisode
+tt0865115,tt0460649,2,6,Aldrin Justice,2006,23,nm0296945,tvEpisode
+tt0866188,tt0460649,2,5,World's Greatest Couple,2006,23,nm0296945,tvEpisode
+tt0869673,tt0460649,2,2,The Scorpion and the Toad,2006,22,nm0338576,tvEpisode
+tt0873024,tt0460649,2,3,Brunch,2006,22,nm0296945,tvEpisode
+tt0875360,tt0460649,2,7,Swarley,2006,23,nm0296945,tvEpisode
+tt0885871,tt0460649,2,8,Atlantic City,2006,23,nm0296945,tvEpisode
+tt0885872,tt0460649,2,9,Slap Bet,2006,23,nm0296945,tvEpisode
+tt0892578,tt0460649,2,10,Single Stamina,2006,23,nm0296945,tvEpisode
+tt0897111,tt0460649,2,12,First Time in New York,2007,23,nm0296945,tvEpisode
+tt0904645,tt0460649,2,11,How Lily Stole Christmas,2006,23,nm0296945,tvEpisode
+tt0924673,tt0460649,2,13,Columns,2007,23,nm0338576,tvEpisode
+tt0933496,tt0460649,2,14,Monday Night Football,2007,22,nm0338576,tvEpisode
+tt0943657,tt0460649,2,16,Stuff,2007,23,nm0296945,tvEpisode
+tt0946316,tt0460649,2,15,Lucky Penny,2007,30,nm0296945,tvEpisode
+tt0966112,tt0460649,2,19,Bachelor Party,2007,23,nm0296945,tvEpisode
+tt0969965,tt0460649,2,17,"Arrivederci, Fiero",2007,22,nm0296945,tvEpisode
+tt0978049,tt0460649,2,18,Moving Day,2007,23,nm0296945,tvEpisode
+tt0982196,tt0460649,2,21,Something Borrowed,2007,22,nm0296945,tvEpisode
+tt0994245,tt0460649,2,20,Showdown,2007,30,nm0296945,tvEpisode
+tt1017766,tt0460649,2,22,Something Blue,2007,23,nm0296945,tvEpisode
+tt1084790,tt0460649,3,1,Wait for It,2007,22,nm0296945,tvEpisode
+tt1094834,tt0460649,3,4,Little Boys,2007,22,nm0338576,tvEpisode
+tt1097293,tt0460649,3,3,Third Wheel,2007,22,nm0296945,tvEpisode
+tt1115217,tt0460649,3,2,We're Not from Here,2007,22,nm0296945,tvEpisode
+tt1117436,tt0460649,3,6,I'm Not That Guy,2007,22,nm0296945,tvEpisode
+tt1120228,tt0460649,3,7,Dowisetrepla,2007,22,nm0296945,tvEpisode
+tt1121411,tt0460649,3,5,How I Met Everyone Else,2007,22,nm0296945,tvEpisode
+tt1140904,tt0460649,3,8,Spoiler Alert,2007,22,nm0296945,tvEpisode
+tt1142665,tt0460649,3,9,Slapsgiving,2007,22,nm0296945,tvEpisode
+tt1154186,tt0460649,3,11,The Platinum Rule,2007,22,nm0296945,tvEpisode
+tt1155839,tt0460649,3,10,The Yips,2007,21,nm0296945,tvEpisode
+tt1203040,tt0460649,3,12,No Tomorrow,2008,22,nm0296945,tvEpisode
+tt1204516,tt0460649,3,13,Ten Sessions,2008,22,nm0296945,tvEpisode
+tt1206866,tt0460649,3,15,The Chain of Screaming,2008,22,nm0296945,tvEpisode
+tt1206867,tt0460649,3,16,Sandcastles in the Sand,2008,22,nm0296945,tvEpisode
+tt1206868,tt0460649,3,17,The Goat,2008,22,nm0296945,tvEpisode
+tt1206869,tt0460649,3,18,Rebound Bro,2008,22,nm0296945,tvEpisode
+tt1206870,tt0460649,3,19,Everything Must Go,2008,22,nm0296945,tvEpisode
+tt1206871,tt0460649,3,20,Miracles,2008,22,nm0296945,tvEpisode
+tt1206872,tt0460649,3,14,The Bracket,2008,21,nm0296945,tvEpisode
+tt1256171,tt0460649,4,10,The Fight,2008,22,nm0296945,tvEpisode
+tt1256172,tt0460649,4,11,Little Minnesota,2008,30,nm0296945,tvEpisode
+tt1256173,tt0460649,4,12,Benefits,2009,30,nm0296945,tvEpisode
+tt1256174,tt0460649,4,13,Three Days of Snow,2009,30,nm0296945,tvEpisode
+tt1256175,tt0460649,4,14,The Possimpible,2009,30,nm0296945,tvEpisode
+tt1256176,tt0460649,4,15,The Stinsons,2009,30,nm0296945,tvEpisode
+tt1256177,tt0460649,4,16,"Sorry, Bro",2009,30,nm0296945,tvEpisode
+tt1256178,tt0460649,4,17,The Front Porch,2009,30,nm0338576,tvEpisode
+tt1256179,tt0460649,4,18,Old King Clancy,2009,30,nm0296945,tvEpisode
+tt1256180,tt0460649,4,19,Murtaugh,2009,30,nm0296945,tvEpisode
+tt1256181,tt0460649,4,2,The Best Burger in New York,2008,30,nm0296945,tvEpisode
+tt1256182,tt0460649,4,20,Mosbius Designs,2009,30,nm0296945,tvEpisode
+tt1256183,tt0460649,4,22,Right Place Right Time,2009,30,nm0296945,tvEpisode
+tt1256184,tt0460649,4,21,The Three Days Rule,2009,30,nm0296945,tvEpisode
+tt1256185,tt0460649,4,3,I Heart NJ,2008,22,nm0296945,tvEpisode
+tt1256186,tt0460649,4,4,Intervention,2008,30,nm0790321,tvEpisode
+tt1256187,tt0460649,4,5,Shelter Island,2008,22,nm0296945,tvEpisode
+tt1256188,tt0460649,4,6,Happily Ever After,2008,21,nm0296945,tvEpisode
+tt1256189,tt0460649,4,7,Not a Father's Day,2008,30,nm0296945,tvEpisode
+tt1256190,tt0460649,4,8,Woooo!,2008,22,nm0296945,tvEpisode
+tt1256191,tt0460649,4,9,The Naked Man,2008,30,nm0296945,tvEpisode
+tt1256606,tt0460649,4,1,Do I Know You?,2008,22,nm0296945,tvEpisode
+tt1410619,tt0460649,4,23,As Fast as She Can,2009,30,nm0296945,tvEpisode
+tt1425523,tt0460649,4,24,The Leap,2009,30,nm0296945,tvEpisode
+tt1491272,tt0460649,5,1,Definitions,2009,30,nm0296945,tvEpisode
+tt1510422,tt0460649,5,2,Double Date,2009,30,nm0296945,tvEpisode
+tt1520584,tt0460649,5,3,Robin 101,2009,22,nm0296945,tvEpisode
+tt1523038,tt0460649,5,4,The Sexless Innkeeper,2009,22,nm0296945,tvEpisode
+tt1523745,tt0460649,5,5,Duel Citizenship,2009,30,nm0296945,tvEpisode
+tt1531287,tt0460649,5,6,Bagpipes,2009,30,nm0296945,tvEpisode
+tt1536724,tt0460649,5,7,The Rough Patch,2009,30,nm0296945,tvEpisode
+tt1541288,tt0460649,5,9,Slapsgiving 2: Revenge of the Slap,2009,22,nm0296945,tvEpisode
+tt1541289,tt0460649,5,8,The Playbook,2009,30,nm0296945,tvEpisode
+tt1553522,tt0460649,5,10,The Window,2009,30,nm0296945,tvEpisode
+tt1559709,tt0460649,5,11,Last Cigarette Ever,2009,30,nm0296945,tvEpisode
+tt1570154,tt0460649,5,12,Girls vs. Suits,2010,30,nm0296945,tvEpisode
+tt1570155,tt0460649,5,13,Jenkins,2010,30,nm0000439,tvEpisode
+tt1576524,tt0460649,5,14,Perfect Week,2010,30,nm0296945,tvEpisode
+tt1589779,tt0460649,5,15,Rabbit or Duck,2010,30,nm0296945,tvEpisode
+tt1595724,tt0460649,5,16,Hooked,2010,30,nm0296945,tvEpisode
+tt1609315,tt0460649,5,17,Of Course,2010,30,nm0296945,tvEpisode
+tt1610780,tt0460649,5,18,Say Cheese,2010,30,nm0296945,tvEpisode
+tt1624286,tt0460649,5,19,Zoo or False,2010,30,nm0296945,tvEpisode
+tt1631001,tt0460649,5,20,Home Wreckers,2010,30,nm0296945,tvEpisode
+tt1632014,tt0460649,5,21,Twin Beds,2010,30,nm0296945,tvEpisode
+tt1632015,tt0460649,5,22,Robots vs. Wrestlers,2010,30,nm0338576,tvEpisode
+tt1640994,tt0460649,5,23,The Wedding Bride,2010,30,nm0296945,tvEpisode
+tt1648494,tt0460649,5,24,Doppelgangers,2010,30,nm0296945,tvEpisode
+tt1701804,tt0460649,6,1,Big Days,2010,22,nm0296945,tvEpisode
+tt1713733,tt0460649,6,2,Cleaning House,2010,30,nm0296945,tvEpisode
+tt1723669,tt0460649,6,3,Unfinished,2010,30,nm0296945,tvEpisode
+tt1733369,tt0460649,6,4,Subway Wars,2010,30,nm0296945,tvEpisode
+tt1737327,tt0460649,6,5,Architect of Destruction,2010,60,nm0296945,tvEpisode
+tt1737328,tt0460649,6,6,Baby Talk,2010,30,nm0296945,tvEpisode
+tt1746026,tt0460649,6,7,Canning Randy,2010,30,nm0296945,tvEpisode
+tt1757176,tt0460649,6,8,Natural History,2010,22,nm0296945,tvEpisode
+tt1763611,tt0460649,6,9,Glitter,2010,30,nm0296945,tvEpisode
+tt1777828,tt0460649,6,10,Blitzgiving,2010,22,nm0296945,tvEpisode
+tt1778997,tt0460649,6,12,False Positive,2010,30,nm0296945,tvEpisode
+tt1779155,tt0460649,6,11,The Mermaid Theory,2010,30,nm0296945,tvEpisode
+tt1795956,tt0460649,6,14,Last Words,2011,22,nm0296945,tvEpisode
+tt1795957,tt0460649,6,15,Oh Honey,2011,30,nm0296945,tvEpisode
+tt1795958,tt0460649,6,16,Desperation Day,2011,30,nm0296945,tvEpisode
+tt1795959,tt0460649,6,17,Garbage Island,2011,22,nm0790321,tvEpisode
+tt1795960,tt0460649,6,18,A Change of Heart,2011,22,nm0296945,tvEpisode
+tt1795961,tt0460649,6,19,Legendaddy,2011,22,nm0296945,tvEpisode
+tt1795962,tt0460649,6,20,The Exploding Meatball Sub,2011,22,nm0296945,tvEpisode
+tt1795963,tt0460649,6,21,Hopeless,2011,22,nm0296945,tvEpisode
+tt1795964,tt0460649,6,22,The Perfect Cocktail,2011,21,nm0296945,tvEpisode
+tt1795965,tt0460649,6,23,Landmarks,2011,21,nm0296945,tvEpisode
+tt1795966,tt0460649,6,24,Challenge Accepted,2011,21,nm0296945,tvEpisode
+tt1795967,tt0460649,6,13,Bad News,2011,30,nm0296945,tvEpisode
+tt1982341,tt0460649,7,1,The Best Man,2011,22,nm0296945,tvEpisode
+tt2039807,tt0460649,7,2,The Naked Truth,2011,22,nm0296945,tvEpisode
+tt2049132,tt0460649,7,3,Ducky Tie,2011,22,nm0338576,tvEpisode
+tt2049980,tt0460649,7,4,The Stinson Missile Crisis,2011,22,nm0296945,tvEpisode
+tt2071800,tt0460649,7,5,Field Trip,2011,21,nm0296945,tvEpisode
+tt2072524,tt0460649,7,6,Mystery vs. History,2011,22,nm0296945,tvEpisode
+tt2072525,tt0460649,7,7,Noretta,2011,22,nm0296945,tvEpisode
+tt2072526,tt0460649,7,8,The Slutty Pumpkin Returns,2011,22,nm0296945,tvEpisode
+tt2094413,tt0460649,7,9,Disaster Averted,2011,22,nm0790321,tvEpisode
+tt2102769,tt0460649,7,10,Tick Tick Tick,2011,22,nm0296945,tvEpisode
+tt2108075,tt0460649,7,11,The Rebound Girl,2011,22,nm0296945,tvEpisode
+tt2121966,tt0460649,7,12,Symphony of Illumination,2011,22,nm0296945,tvEpisode
+tt2157457,tt0460649,7,14,46 Minutes,2012,21,nm0296945,tvEpisode
+tt2157459,tt0460649,7,13,Tailgate,2012,22,nm0296945,tvEpisode
+tt2212411,tt0460649,7,17,No Pressure,2012,22,nm0296945,tvEpisode
+tt2216757,tt0460649,7,15,The Burning Beekeeper,2012,20,nm0296945,tvEpisode
+tt2216759,tt0460649,7,16,The Drunk Train,2012,22,nm0296945,tvEpisode
+tt2247489,tt0460649,7,18,Karma,2012,22,nm0296945,tvEpisode
+tt2252518,tt0460649,8,1,Farhampton,2012,22,nm0296945,tvEpisode
+tt2265943,tt0460649,7,19,The Broath,2012,22,nm0296945,tvEpisode
+tt2336905,tt0460649,7,20,Trilogy Time,2012,21,nm0296945,tvEpisode
+tt2346207,tt0460649,7,21,Now We're Even,2012,22,nm0296945,tvEpisode
+tt2376741,tt0460649,7,22,Good Crazy,2012,22,nm0296945,tvEpisode
+tt2376743,tt0460649,7,23,The Magician's Code: Part 1,2012,21,nm0296945,tvEpisode
+tt2376745,tt0460649,7,24,The Magician's Code: Part 2,2012,22,nm0296945,tvEpisode
+tt2414774,tt0460649,8,2,The Pre-Nup,2012,22,nm0296945,tvEpisode
+tt2428796,tt0460649,8,4,Who Wants to Be a Godparent,2012,22,nm0296945,tvEpisode
+tt2428798,tt0460649,8,3,Nannies,2012,22,nm0296945,tvEpisode
+tt2445770,tt0460649,8,8,Twelve Horny Women,2012,22,nm0296945,tvEpisode
+tt2460610,tt0460649,8,5,The Autumn of Breakups,2012,22,nm0296945,tvEpisode
+tt2460618,tt0460649,8,6,Splitsville,2012,22,nm0296945,tvEpisode
+tt2460620,tt0460649,8,7,The Stamp Tramp,2012,22,nm0296945,tvEpisode
+tt2466704,tt0460649,8,9,Lobster Crawl,2012,22,nm0296945,tvEpisode
+tt2547538,tt0460649,8,10,The Over-Correction,2012,22,nm0296945,tvEpisode
+tt2556002,tt0460649,8,11,The Final Page: Part One,2012,21,nm0296945,tvEpisode
+tt2556008,tt0460649,8,12,The Final Page: Part Two,2012,22,nm0296945,tvEpisode
+tt2569148,tt0460649,8,13,Band or DJ?,2013,20,nm0296945,tvEpisode
+tt2630114,tt0460649,8,14,Ring Up!,2013,22,nm0296945,tvEpisode
+tt2654452,tt0460649,8,15,P.S. I Love You,2013,22,nm0296945,tvEpisode
+tt2668726,tt0460649,8,18,Weekend at Barney's,2013,22,nm0296945,tvEpisode
+tt2676388,tt0460649,8,16,Bad Crazy,2013,22,nm0296945,tvEpisode
+tt2712100,tt0460649,8,17,The Ashtray,2013,22,nm0296945,tvEpisode
+tt2733014,tt0460649,8,20,The Time Travelers,2013,22,nm0296945,tvEpisode
+tt2777232,tt0460649,8,19,The Fortress,2013,22,nm0790321,tvEpisode
+tt2795770,tt0460649,8,23,Something Old,2013,22,nm0296945,tvEpisode
+tt2802532,tt0460649,9,1,The Locket,2013,21,nm0296945,tvEpisode
+tt2815916,tt0460649,8,21,Romeward Bound,2013,21,nm0296945,tvEpisode
+tt2847436,tt0460649,8,22,The Bro Mitzvah,2013,22,nm0296945,tvEpisode
+tt2861788,tt0460649,8,24,Something New,2013,22,nm0296945,tvEpisode
+tt3040972,tt0460649,9,2,Coming Back,2013,21,nm0296945,tvEpisode
+tt3040980,tt0460649,9,3,Last Time in New York,2013,22,nm0296945,tvEpisode
+tt3113690,tt0460649,9,4,The Broken Code,2013,22,nm0296945,tvEpisode
+tt3212666,tt0460649,9,5,The Poker Game,2013,22,nm0296945,tvEpisode
+tt3247720,tt0460649,9,9,Platonish,2013,22,nm0296945,tvEpisode
+tt3268352,tt0460649,9,6,Knight Vision,2013,22,nm0296945,tvEpisode
+tt3268354,tt0460649,9,7,No Questions Asked,2013,22,nm0296945,tvEpisode
+tt3268356,tt0460649,9,8,The Lighthouse,2013,22,nm0296945,tvEpisode
+tt3317356,tt0460649,9,10,Mom and Dad,2013,22,nm0296945,tvEpisode
+tt3331436,tt0460649,9,11,Bedtime Stories,2013,21,nm0296945,tvEpisode
+tt3353092,tt0460649,9,12,The Rehearsal Dinner,2013,20,nm0296945,tvEpisode
+tt3359400,tt0460649,9,14,Slapsgiving 3: Slappointment in Slapmarra,2014,22,nm0296945,tvEpisode
+tt3382270,tt0460649,9,13,Bass Player Wanted,2013,21,nm0296945,tvEpisode
+tt3390680,tt0460649,9,15,Unpause,2014,22,nm0296945,tvEpisode
+tt3390684,tt0460649,9,16,How Your Mother Met Me,2014,23,nm0296945,tvEpisode
+tt3415286,tt0460649,9,17,Sunrise,2014,22,nm0296945,tvEpisode
+tt3415288,tt0460649,9,18,Rally,2014,21,nm0296945,tvEpisode
+tt3415292,tt0460649,9,19,Vesuvius,2014,22,nm0296945,tvEpisode
+tt3415296,tt0460649,9,20,Daisy,2014,22,nm0296945,tvEpisode
+tt3415298,tt0460649,9,21,Gary Blauman,2014,22,nm0296945,tvEpisode
+tt3415300,tt0460649,9,22,The End of the Aisle,2014,22,nm0296945,tvEpisode
+tt3415302,tt0460649,9,23,Last Forever: Part One,2014,22,nm0296945,tvEpisode
+tt3415304,tt0460649,9,24,Last Forever: Part Two,2014,22,nm0296945,tvEpisode
+tt15572586,tt5420376,6,4,Chapter Ninety-Nine: The Witching Hour(s),2021,0,nm7808308,tvEpisode
+tt15747054,tt5420376,6,5,Chapter One Hundred: The Jughead Paradox,2021,0,nm3286970,tvEpisode
+tt0703110,tt0118466,3,10,A Date with Destiny,1998,0,nm0358996,tvEpisode
+tt0703111,tt0118466,1,6,A Little Knowledge,1997,0,nm0614975,tvEpisode
+tt0703112,tt0118466,3,2,Achy Breaky Heart,1998,0,nm0436039,tvEpisode
+tt0703113,tt0118466,1,7,"Baby, It's You and You and You",1997,0,nm0614975,tvEpisode
+tt0703114,tt0118466,2,15,Bad Boy,1998,0,nm0664829,tvEpisode
+tt0703115,tt0118466,3,6,Beating Is Fundamental,1998,0,nm0148252,tvEpisode
+tt0703116,tt0118466,2,3,Below the Rim,1997,0,nm0913637,tvEpisode
+tt0703117,tt0118466,2,7,Big Picture,1997,0,nm0566810,tvEpisode
+tt0703118,tt0118466,2,8,Book Smart,1997,0,nm0258405,tvEpisode
+tt0703119,tt0118466,3,8,Boomerang,1998,0,nm0358996,tvEpisode
+tt0703120,tt0118466,3,11,Break Up Not to Make Up,1998,0,nm0274179,tvEpisode
+tt0703121,tt0118466,1,3,"Brother, Brother",1997,0,nm0358996,tvEpisode
+tt0703122,tt0118466,3,19,Cross Talk,1999,0,nm0566841,tvEpisode
+tt0703123,tt0118466,3,18,Crushed,1999,0,nm0436039,tvEpisode
+tt0703124,tt0118466,2,4,Dateline,1997,0,nm0913637,tvEpisode
+tt0703125,tt0118466,3,12,Diary of a Mad Schoolgirl,1998,0,nm0583754,tvEpisode
+tt0703126,tt0118466,1,4,Don't Do That Thing You Do,1997,0,nm0358996,tvEpisode
+tt0703127,tt0118466,2,5,Dumbstruck,1997,0,nm0913637,tvEpisode
+tt0703128,tt0118466,3,14,From A to Double D,1999,0,nm0148252,tvEpisode
+tt0703129,tt0118466,3,9,Get a Job,1998,0,nm0005344,tvEpisode
+tt0703130,tt0118466,2,17,"Goodbye, Mr. Chimps",1998,0,nm0913637,tvEpisode
+tt0703131,tt0118466,2,20,Gotta Dance,1998,0,nm0358996,tvEpisode
+tt0703132,tt0118466,3,4,Henderson House Party,1998,0,nm0274179,tvEpisode
+tt0703133,tt0118466,3,17,I Was a Teenage Sports Wife,1999,0,nm0005344,tvEpisode
+tt0703134,tt0118466,3,16,It Takes Two,1999,0,nm0148252,tvEpisode
+tt0703135,tt0118466,1,5,Lab Rats,1997,0,nm0358996,tvEpisode
+tt0703136,tt0118466,3,3,Love Bug,1998,0,nm0664829,tvEpisode
+tt0703137,tt0118466,2,10,Love Letters,1997,0,nm0913637,tvEpisode
+tt0703138,tt0118466,2,16,Most Hated Man on Campus,1998,0,nm0274179,tvEpisode
+tt0703139,tt0118466,2,22,My Two Dads,1998,0,nm0274179,tvEpisode
+tt0703140,tt0118466,3,22,Never Too Young,1999,0,nm0447583,tvEpisode
+tt0703141,tt0118466,1,1,Pilot,1997,0,nm0870533,tvEpisode
+tt0703142,tt0118466,2,13,"Rooferman, Take One",1998,0,nm0258405,tvEpisode
+tt0703143,tt0118466,3,1,She Got Game,1998,0,nm0274179,tvEpisode
+tt0703144,tt0118466,2,14,Stop the Presses,1998,0,nm0258405,tvEpisode
+tt0703145,tt0118466,2,19,Strangers on the Net,1998,0,nm0664829,tvEpisode
+tt0703146,tt0118466,3,7,T.A. or Not T.A.,1998,0,nm0664829,tvEpisode
+tt0703147,tt0118466,2,11,T.J. versus the Machine,1997,0,nm0913637,tvEpisode
+tt0703148,tt0118466,3,5,That's My Momma,1998,0,nm0436039,tvEpisode
+tt0703149,tt0118466,1,2,The Code,1997,0,nm0358996,tvEpisode
+tt0703150,tt0118466,2,9,The Dating Game,1997,0,nm0566810,tvEpisode
+tt0703151,tt0118466,3,20,The Soda Wars,1999,0,nm0005344,tvEpisode
+tt0703152,tt0118466,2,6,Trial and Error,1997,0,nm0913637,tvEpisode
+tt0703153,tt0118466,2,2,Working Guy,1997,0,nm0913637,tvEpisode
+tt1098942,tt0118466,2,1,Primary Brothers,1997,0,nm0913637,tvEpisode
+tt1098943,tt0118466,2,12,Men Working Badly,1998,0,nm0913637,tvEpisode
+tt1098944,tt0118466,2,18,Dawgburger Rebellion,1998,0,nm0436039,tvEpisode
+tt1098945,tt0118466,2,21,Something Wicked This Way Comes,1998,0,nm0358996,tvEpisode
+tt1098946,tt0118466,3,13,Perchance to Dream,1999,0,nm0664829,tvEpisode
+tt1098947,tt0118466,3,15,Can't Buy Me Love,1999,0,nm0148252,tvEpisode
+tt1098948,tt0118466,3,21,The Graduate?,1999,0,nm0436039,tvEpisode
+tt0906536,tt0369179,1,0,Most Chicks Won't Eat Veal: Original Pilot,2006,0,nm0123273,tvEpisode

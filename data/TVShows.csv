@@ -1,0 +1,11 @@
+show_name,tvshow_id,imdb_url,year_of_release,title_type,num_seasons,num_episodes
+Friends,tt0108778,https://www.imdb.com/title/tt0108778/?ref_=nv_sr_srsg_0,1994,tvSeries,10,235
+Lucifer,tt4052886,https://www.imdb.com/title/tt4052886/?ref_=nv_sr_srsg_0,2016,tvSeries,6,93
+Riverdale,tt5420376,https://www.imdb.com/title/tt5420376/?ref_=nv_sr_srsg_0,2017,tvSeries,6,99
+The Suite Life of Zack & Cody,tt0426371,https://www.imdb.com/title/tt0426371/?ref_=nv_sr_srsg_0,2005,tvSeries,3,87
+Smart Guy,tt0118466,https://www.imdb.com/title/tt0118466/?ref_=nv_sr_srsg_0,1997,tvSeries,3,51
+The Fresh Prince of Bel-Air,tt0098800,https://www.imdb.com/title/tt0098800/?ref_=nv_sr_srsg_0,1990,tvSeries,6,148
+Two and a Half Men,tt0369179,https://www.imdb.com/title/tt0369179/?ref_=nv_sr_srsg_0,2003,tvSeries,12,262
+The Big Bang Theory,tt0898266,https://www.imdb.com/title/tt0898266/?ref_=nv_sr_srsg_0,2007,tvSeries,12,280
+Sense8,tt2431438,https://www.imdb.com/title/tt2431438/?ref_=nv_sr_srsg_0,2015,tvSeries,2,24
+How I Met Your Mother,tt0460649,https://www.imdb.com/title/tt0460649/?ref_=nv_sr_srsg_0,2005,tvSeries,9,208

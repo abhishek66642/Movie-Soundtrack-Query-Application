@@ -1,0 +1,24 @@
+movie_name,movie_id,imdb_url,title_type,release_year,runtime_minutes,director_id
+Titanic,tt0120338,https://www.imdb.com/title/tt0120338/?ref_=nv_sr_srsg_0,movie,1997,194,nm0000116
+Avatar,tt0499549,https://www.imdb.com/title/tt0499549/?ref_=nv_sr_srsg_3,movie,2009,162,nm0000116
+The Departed,tt0407887,https://www.imdb.com/title/tt0407887/?ref_=nv_sr_srsg_0,movie,2006,151,nm0000217
+Shutter Island,tt1130884,https://www.imdb.com/title/tt1130884/?ref_=nv_sr_srsg_0,movie,2010,138,nm0000217
+Goodfellas,tt0099685,https://www.imdb.com/title/tt0099685/?ref_=nv_sr_srsg_0,movie,1990,146,nm0000217
+The Irishman,tt1302006,https://www.imdb.com/title/tt1302006/?ref_=nv_sr_srsg_0,movie,2019,209,nm0000217
+Nightcrawler,tt2872718,https://www.imdb.com/title/tt2872718/?ref_=nv_sr_srsg_0,movie,2014,117,nm0319659
+Donnie Darko,tt0246578,https://www.imdb.com/title/tt0246578/?ref_=nv_sr_srsg_0,movie,2001,113,nm0446819
+Midsommar,tt8772262,https://www.imdb.com/title/tt8772262/?ref_=nv_sr_srsg_0,movie,2019,148,nm4170048
+Ratatouille,tt0382932,https://www.imdb.com/title/tt0382932/?ref_=nv_sr_srsg_0,movie,2007,111,nm0684342
+Pulp Fiction,tt0110912,https://www.imdb.com/title/tt0110912/?ref_=nv_sr_srsg_0,movie,1994,154,nm0000233
+Avengers: Endgame,tt4154796,https://www.imdb.com/title/tt4154796/?ref_=nv_sr_srsg_0,movie,2019,181,nm0751577
+Once Upon a Time in Hollywood,tt7131622,https://www.imdb.com/title/tt7131622/?ref_=nv_sr_srsg_0,movie,2019,161,nm0000233
+Blood Diamond,tt0450259,https://www.imdb.com/title/tt0450259/?ref_=nv_sr_srsg_0,movie,2006,143,nm0001880
+Ready Player One,tt1677720,https://www.imdb.com/title/tt1677720/?ref_=nv_sr_srsg_0,movie,2018,140,nm0000229
+Guardians of the Galaxy,tt2015381,https://www.imdb.com/title/tt2015381/?ref_=nv_sr_srsg_0,movie,2014,121,nm0348181
+Game Night,tt2704998,https://www.imdb.com/title/tt2704998/?ref_=nv_sr_srsg_0,movie,2018,100,nm0197855
+The Notebook,tt0332280,https://www.imdb.com/title/tt0332280/?ref_=nv_sr_srsg_0,movie,2004,123,nm0001024
+We're the Millers,tt1723121,https://www.imdb.com/title/tt1723121/?ref_=nv_sr_srsg_0,movie,2013,110,nm1098493
+The Matrix,tt0133093,https://www.imdb.com/title/tt0133093/?ref_=nv_sr_srsg_3,movie,1999,136,nm0905152
+John Wick,tt2911666,https://www.imdb.com/title/tt2911666/?ref_=nv_sr_srsg_0,movie,2014,101,nm0500610
+Top Gun,tt0092099,https://www.imdb.com/title/tt0092099/?ref_=nv_sr_srsg_3,movie,1986,110,nm0001716
+The Pursuit of Happyness,tt0454921,https://www.imdb.com/title/tt0454921/?ref_=nv_sr_srsg_0,movie,2006,117,nm0610831
